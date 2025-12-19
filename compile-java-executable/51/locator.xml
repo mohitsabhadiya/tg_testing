@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locators>
-  <locator name="ele_emailaddre941">
-    <element type="css">#emailTGWEBCOMMA</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/43/8776.png</element>
-  </locator>
-  <locator name="ele_password780">
-    <element type="xpath">//input[@id='pass']</element>
-    <element type="id">passTGWEBCOMMA1</element>
-    <element type="css">#pass</element>
-    <element type="tag">input</element>
-    <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/43/8777.png</element>
-  </locator>
-  <locator name="ele_login485">
-    <element type="tag">buttonTGWEBCOMMATagTGWEBCOMMA</element>
-    <element type="class">_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51syTGWEBCOMMA1</element>
-    <element type="xpath">//button[@id='u_0_5_Cb']</element>
-    <element type="xpath">//form[@id='u_0_2_eT']/div[2]/button</element>
-    <element type="id">u_0_5_CbTGWEBCOMMA1</element>
-    <element type="css">#u_0_5_Cb</element>
-    <element type="xpath">//button</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/43/8778.png</element>
-  </locator>
   <locator name="ele_selectorshub">
     <element type="linktext">SELECTORSHUBTGWEBCOMMALinkTextTGWEBCOMMA00</element>
     <element type="css">header#masthead &gt; div &gt; section:nth-of-type(2) &gt; div &gt; div &gt; div &gt; section &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; h1 &gt; aTGWEBCOMMA0</element>
@@ -109,6 +87,18 @@
     <element type="class">hfe-menu-itemTGWEBCOMMA3</element>
     <element type="tag">aTGWEBCOMMA20</element>
   </locator>
+  <locator name="ele_EnterLastname">
+    <element type="xpath">//input[@placeholder='Enter Last name']</element>
+    <element type="css">main#content &gt; div &gt; div &gt; section:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; input:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="class">nameFldTGWEBCOMMA2</element>
+    <element type="tag">inputTGWEBCOMMA22</element>
+  </locator>
+  <locator name="ele_Checkouthere">
+    <element type="xpath">//button[normalize-space()='Checkout here']</element>
+    <element type="css">main#content &gt; div &gt; div &gt; section:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div:nth-of-type(4) &gt; buttonTGWEBCOMMA0</element>
+    <element type="class">dropbtnTGWEBCOMMA1</element>
+    <element type="tag">buttonTGWEBCOMMA2</element>
+  </locator>
   <locator name="ele_CONTACTINFO">
     <element type="css">main#content &gt; div &gt; div &gt; section &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; h2TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
     <element type="css">main#content &gt; div &gt; div &gt; section &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; h2TGWEBCOMMA0</element>
@@ -141,18 +131,6 @@
   <locator name="ele_Destiny">
     <element type="xpath">//input[@id='glaf']</element>
   </locator>
-  <locator name="ele_EnterLastname">
-    <element type="xpath">//input[@placeholder='Enter Last name']</element>
-    <element type="css">main#content &gt; div &gt; div &gt; section:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; input:nth-of-type(2)TGWEBCOMMA0</element>
-    <element type="class">nameFldTGWEBCOMMA2</element>
-    <element type="tag">inputTGWEBCOMMA22</element>
-  </locator>
-  <locator name="ele_Checkouthere">
-    <element type="xpath">//button[normalize-space()='Checkout here']</element>
-    <element type="css">main#content &gt; div &gt; div &gt; section:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div:nth-of-type(4) &gt; buttonTGWEBCOMMA0</element>
-    <element type="class">dropbtnTGWEBCOMMA1</element>
-    <element type="tag">buttonTGWEBCOMMA2</element>
-  </locator>
   <locator name="ele_FirstchackBox">
     <element type="css">table#tablepress-1 &gt; tbody &gt; tr &gt; td &gt; inputTGWEBCOMMACssSelectorTGWEBCOMMA9</element>
     <element type="css">table#tablepress-1 &gt; tbody &gt; tr &gt; td &gt; inputTGWEBCOMMA9</element>
@@ -177,6 +155,13 @@
     <element type="css">html &gt; body &gt; div &gt; div:nth-of-type(3) &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(3) &gt; table &gt; tbody &gt; tr:nth-of-type(9) &gt; td:nth-of-type(7)TGWEBCOMMA0</element>
     <element type="class">text-centerTGWEBCOMMA76</element>
     <element type="tag">tdTGWEBCOMMA63</element>
+  </locator>
+  <locator name="ele_continue1">
+    <element type="xpath">//XCUIElementTypeTextField[@name='Username']</element>
+    <element type="id">continue10</element>
+    <element type="css">input#continueTGWEBCOMMA0</element>
+    <element type="class">a-button-inputTGWEBCOMMA1</element>
+    <element type="tag">inputTGWEBCOMMA10</element>
   </locator>
   <locator name="ele_Amazon">
     <element type="xpath">//i[@aria-label='Amazon']</element>
@@ -211,11 +196,23 @@
     <element type="class">a-input-text a-span12 auth-required-field auth-require-fields-match auth-require-password-validationTGWEBCOMMA3</element>
     <element type="tag">inputTGWEBCOMMA8</element>
   </locator>
-  <locator name="ele_continue1">
-    <element type="xpath">//XCUIElementTypeTextField[@name='Username']</element>
-    <element type="id">continue10</element>
-    <element type="css">input#continueTGWEBCOMMA0</element>
-    <element type="class">a-button-inputTGWEBCOMMA1</element>
-    <element type="tag">inputTGWEBCOMMA10</element>
+  <locator name="ele_emailaddre941">
+    <element type="css">#emailTGWEBCOMMA</element>
+  </locator>
+  <locator name="ele_password780">
+    <element type="xpath">//input[@id='pass']</element>
+    <element type="id">passTGWEBCOMMA1</element>
+    <element type="css">#pass</element>
+    <element type="tag">input</element>
+    <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_login485">
+    <element type="tag">buttonTGWEBCOMMATagTGWEBCOMMA</element>
+    <element type="class">_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51syTGWEBCOMMA1</element>
+    <element type="xpath">//button[@id='u_0_5_Cb']</element>
+    <element type="xpath">//form[@id='u_0_2_eT']/div[2]/button</element>
+    <element type="id">u_0_5_CbTGWEBCOMMA1</element>
+    <element type="css">#u_0_5_Cb</element>
+    <element type="xpath">//button</element>
   </locator>
 </locators>
