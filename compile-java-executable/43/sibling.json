@@ -1,0 +1,3933 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_emailaddre941",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email address or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email address or phone number"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "#emailTGWEBCOMMA",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailaddre941"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/43/8776.png",
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_emailaddre941",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email address or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email address or phone number"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "#emailTGWEBCOMMA",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailaddre941"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/43/8776.png",
+            "element_type": "css",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_password780",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_AL"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "input",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/43/8777.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password780",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_AL"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "input",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password780"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/43/8777.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_login485",
+            "tg_text": "Log in",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6ltg"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "value": "1",
+                        "class": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy",
+                        "name": "login",
+                        "data-testid": "royal-login-button",
+                        "type": "submit",
+                        "id": "u_0_5_Cb"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMATagTGWEBCOMMA",
+                    "locator_id": "8",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 280,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "button",
+                    "locator_id": "8",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51syTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='u_0_5_Cb']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_eT']/div[2]/button",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "u_0_5_CbTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#u_0_5_Cb",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/43/8778.png",
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_login485",
+            "tg_text": "Log in",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6ltg"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "value": "1",
+                        "class": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy",
+                        "name": "login",
+                        "data-testid": "royal-login-button",
+                        "type": "submit",
+                        "id": "u_0_5_Cb"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMATagTGWEBCOMMA",
+                    "locator_id": "8",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 280,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "button",
+                    "locator_id": "8",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51syTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='u_0_5_Cb']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_eT']/div[2]/button",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "u_0_5_CbTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#u_0_5_Cb",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login485"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/43/8778.png",
+            "element_type": "tag",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_selectorshub",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Linktext",
+                    "locators_val": "SELECTORSHUBTGWEBCOMMALinkTextTGWEBCOMMA00",
+                    "locator_id": "4",
+                    "d_h": 27,
+                    "d_w": 166,
+                    "d_x": 156,
+                    "d_y": 85,
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "CSS selector",
+                    "locators_val": "header#masthead > div > section:nth-of-type(2) > div > div > div > section > div > div:nth-of-type(2) > div > div > div > h1 > aTGWEBCOMMA0",
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "LinkText",
+                    "locators_val": "SELECTORSHUBTGWEBCOMMA0",
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='SELECTORSHUB']",
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/section[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/a[1]",
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "PartialLinkText",
+                    "locators_val": "SELECTORSHTGWEBCOMMA0",
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA3",
+                    "suggest_name": "SELECTORSHUB"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "linktext"
+        },
+        {
+            "testcase_element": "ele_selectorshub",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Linktext",
+                    "locators_val": "SELECTORSHUBTGWEBCOMMALinkTextTGWEBCOMMA00",
+                    "locator_id": "4",
+                    "d_h": 27,
+                    "d_w": 166,
+                    "d_x": 156,
+                    "d_y": 85,
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "CSS selector",
+                    "locators_val": "header#masthead > div > section:nth-of-type(2) > div > div > div > section > div > div:nth-of-type(2) > div > div > div > h1 > aTGWEBCOMMA0",
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "LinkText",
+                    "locators_val": "SELECTORSHUBTGWEBCOMMA0",
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='SELECTORSHUB']",
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/section[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/a[1]",
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "PartialLinkText",
+                    "locators_val": "SELECTORSHTGWEBCOMMA0",
+                    "suggest_name": "SELECTORSHUB"
+                },
+                {
+                    "d_h": 25,
+                    "d_w": 141,
+                    "d_x": 161.609375,
+                    "d_y": 88,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA3",
+                    "suggest_name": "SELECTORSHUB"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "linktext"
+        },
+        {
+            "testcase_element": "ele_password",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "passTGWEBCOMMAIdTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112,
+                    "d_y": 425,
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[2]",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "class",
+                    "locators_val": "selectors-input jsSelectorTGWEBCOMMA2",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA3",
+                    "suggest_name": "passTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_password",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "passTGWEBCOMMAIdTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112,
+                    "d_y": 425,
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[2]",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "class",
+                    "locators_val": "selectors-input jsSelectorTGWEBCOMMA2",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 425.390625,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA3",
+                    "suggest_name": "passTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_SYSTEMDISTRIBUTIONDETAILS",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "main#content > div > div > section:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > h2TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112,
+                    "d_y": 755,
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                },
+                {
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112.5,
+                    "d_y": 755.953125,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > h2TGWEBCOMMA0",
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                },
+                {
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112.5,
+                    "d_y": 755.953125,
+                    "locators": "Xpath",
+                    "locators_val": "//div[@data-elementor-type='wp-page']//div//div[1]//div[1]//div[2]//div[1]//h2[1]",
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                },
+                {
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112.5,
+                    "d_y": 755.953125,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]",
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                },
+                {
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112.5,
+                    "d_y": 755.953125,
+                    "locators": "class",
+                    "locators_val": "elementor-heading-title elementor-size-defaultTGWEBCOMMA4",
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                },
+                {
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112.5,
+                    "d_y": 755.953125,
+                    "locators": "Tag",
+                    "locators_val": "h2TGWEBCOMMA5",
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_SYSTEMDISTRIBUTIONDETAILS",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "main#content > div > div > section:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > h2TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112,
+                    "d_y": 755,
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                },
+                {
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112.5,
+                    "d_y": 755.953125,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > h2TGWEBCOMMA0",
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                },
+                {
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112.5,
+                    "d_y": 755.953125,
+                    "locators": "Xpath",
+                    "locators_val": "//div[@data-elementor-type='wp-page']//div//div[1]//div[1]//div[2]//div[1]//h2[1]",
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                },
+                {
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112.5,
+                    "d_y": 755.953125,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]",
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                },
+                {
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112.5,
+                    "d_y": 755.953125,
+                    "locators": "class",
+                    "locators_val": "elementor-heading-title elementor-size-defaultTGWEBCOMMA4",
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                },
+                {
+                    "d_h": 35,
+                    "d_w": 1120,
+                    "d_x": 112.5,
+                    "d_y": 755.953125,
+                    "locators": "Tag",
+                    "locators_val": "h2TGWEBCOMMA5",
+                    "suggest_name": "SYSTEM DISTRIBUTION DETAILS"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_CompanyField",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > inputTGWEBCOMMACssSelectorTGWEBCOMMA7",
+                    "locator_id": "9",
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112,
+                    "d_y": 515,
+                    "suggest_name": "input924"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 515.390625,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > inputTGWEBCOMMA7",
+                    "suggest_name": "input924"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 515.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//body//div[@id='page']//div[@data-elementor-type='wp-page']//div//div//div//div//div//div//div[1]//div[1]//div[1]//div[1]//input[1]",
+                    "suggest_name": "input924"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 515.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]",
+                    "suggest_name": "input924"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 515.390625,
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA1",
+                    "suggest_name": "input924"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 515.390625,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA4",
+                    "suggest_name": "input924"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_CompanyField",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > inputTGWEBCOMMACssSelectorTGWEBCOMMA7",
+                    "locator_id": "9",
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112,
+                    "d_y": 515,
+                    "suggest_name": "input924"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 515.390625,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > inputTGWEBCOMMA7",
+                    "suggest_name": "input924"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 515.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//body//div[@id='page']//div[@data-elementor-type='wp-page']//div//div//div//div//div//div//div[1]//div[1]//div[1]//div[1]//input[1]",
+                    "suggest_name": "input924"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 515.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]",
+                    "suggest_name": "input924"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 515.390625,
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA1",
+                    "suggest_name": "input924"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 515.390625,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA4",
+                    "suggest_name": "input924"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_FirstEntername",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='First Enter name']",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 209,
+                    "d_x": 682,
+                    "d_y": 430,
+                    "suggest_name": "input882"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 209,
+                    "d_x": 682.5,
+                    "d_y": 430.84375,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > inputTGWEBCOMMA1",
+                    "suggest_name": "input882"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 209,
+                    "d_x": 682.5,
+                    "d_y": 430.84375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]",
+                    "suggest_name": "input882"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 209,
+                    "d_x": 682.5,
+                    "d_y": 430.84375,
+                    "locators": "class",
+                    "locators_val": "nameFldTGWEBCOMMA1",
+                    "suggest_name": "input882"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 209,
+                    "d_x": 682.5,
+                    "d_y": 430.84375,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA20",
+                    "suggest_name": "input882"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_FirstEntername",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='First Enter name']",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 209,
+                    "d_x": 682,
+                    "d_y": 430,
+                    "suggest_name": "input882"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 209,
+                    "d_x": 682.5,
+                    "d_y": 430.84375,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > inputTGWEBCOMMA1",
+                    "suggest_name": "input882"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 209,
+                    "d_x": 682.5,
+                    "d_y": 430.84375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]",
+                    "suggest_name": "input882"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 209,
+                    "d_x": 682.5,
+                    "d_y": 430.84375,
+                    "locators": "class",
+                    "locators_val": "nameFldTGWEBCOMMA1",
+                    "suggest_name": "input882"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 209,
+                    "d_x": 682.5,
+                    "d_y": 430.84375,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA20",
+                    "suggest_name": "input882"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_VolvoSaabOpelAudi",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "carsTGWEBCOMMAIdTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604,
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604.4375,
+                    "locators": "id",
+                    "locators_val": "carsTGWEBCOMMA1",
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604.4375,
+                    "locators": "CSS selector",
+                    "locators_val": "select#carsTGWEBCOMMA0",
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604.4375,
+                    "locators": "Xpath",
+                    "locators_val": "//select[@id='cars']",
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604.4375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/select[1]",
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604.4375,
+                    "locators": "Tag",
+                    "locators_val": "selectTGWEBCOMMA1",
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_VolvoSaabOpelAudi",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "carsTGWEBCOMMAIdTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604,
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604.4375,
+                    "locators": "id",
+                    "locators_val": "carsTGWEBCOMMA1",
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604.4375,
+                    "locators": "CSS selector",
+                    "locators_val": "select#carsTGWEBCOMMA0",
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604.4375,
+                    "locators": "Xpath",
+                    "locators_val": "//select[@id='cars']",
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604.4375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/select[1]",
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 91,
+                    "d_x": 907,
+                    "d_y": 604.4375,
+                    "locators": "Tag",
+                    "locators_val": "selectTGWEBCOMMA1",
+                    "suggest_name": "Volvo\nSaab\nOpel\nAudi"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_Crush",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "input#inp_valTGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112,
+                    "d_y": 558,
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 558,
+                    "locators": "id",
+                    "locators_val": "inp_valTGWEBCOMMA1",
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 558,
+                    "locators": "CSS selector",
+                    "locators_val": "input#inp_valTGWEBCOMMA0",
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 558,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='inp_val']",
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 558,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[3]",
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 558,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA12",
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_Crush",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "input#inp_valTGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112,
+                    "d_y": 558,
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 558,
+                    "locators": "id",
+                    "locators_val": "inp_valTGWEBCOMMA1",
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 558,
+                    "locators": "CSS selector",
+                    "locators_val": "input#inp_valTGWEBCOMMA0",
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 558,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='inp_val']",
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 558,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[3]",
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 112.5,
+                    "d_y": 558,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA12",
+                    "suggest_name": "inp_valTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_next",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[contains(text(),'›')]",
+                    "locator_id": "3",
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153,
+                    "d_y": 555,
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "id",
+                    "locators_val": "tablepress-1_nextTGWEBCOMMA1",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "CSS selector",
+                    "locators_val": "a#tablepress-1_nextTGWEBCOMMA0",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "LinkText",
+                    "locators_val": "NextTGWEBCOMMA0",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "Xpath",
+                    "locators_val": "//a[@id='tablepress-1_next']",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/a[2]",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "class",
+                    "locators_val": "paginate_button nextTGWEBCOMMA2",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA65",
+                    "suggest_name": "Next"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_next",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[contains(text(),'›')]",
+                    "locator_id": "3",
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153,
+                    "d_y": 555,
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "id",
+                    "locators_val": "tablepress-1_nextTGWEBCOMMA1",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "CSS selector",
+                    "locators_val": "a#tablepress-1_nextTGWEBCOMMA0",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "LinkText",
+                    "locators_val": "NextTGWEBCOMMA0",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "Xpath",
+                    "locators_val": "//a[@id='tablepress-1_next']",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/a[2]",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "class",
+                    "locators_val": "paginate_button nextTGWEBCOMMA2",
+                    "suggest_name": "Next"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 64,
+                    "d_x": 1153.15625,
+                    "d_y": 555.046875,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA65",
+                    "suggest_name": "Next"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Showing21to30of99entries",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='tablepress-1_info']",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112,
+                    "d_y": 551,
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112.5,
+                    "d_y": 551.046875,
+                    "locators": "id",
+                    "locators_val": "tablepress-1_infoTGWEBCOMMA1",
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112.5,
+                    "d_y": 551.046875,
+                    "locators": "CSS selector",
+                    "locators_val": "div#tablepress-1_infoTGWEBCOMMA0",
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112.5,
+                    "d_y": 551.046875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]",
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112.5,
+                    "d_y": 551.046875,
+                    "locators": "class",
+                    "locators_val": "dataTables_infoTGWEBCOMMA1",
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112.5,
+                    "d_y": 551.046875,
+                    "locators": "Tag",
+                    "locators_val": "divTGWEBCOMMA127",
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Showing21to30of99entries",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='tablepress-1_info']",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112,
+                    "d_y": 551,
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112.5,
+                    "d_y": 551.046875,
+                    "locators": "id",
+                    "locators_val": "tablepress-1_infoTGWEBCOMMA1",
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112.5,
+                    "d_y": 551.046875,
+                    "locators": "CSS selector",
+                    "locators_val": "div#tablepress-1_infoTGWEBCOMMA0",
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112.5,
+                    "d_y": 551.046875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]",
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112.5,
+                    "d_y": 551.046875,
+                    "locators": "class",
+                    "locators_val": "dataTables_infoTGWEBCOMMA1",
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                },
+                {
+                    "d_h": 36,
+                    "d_w": 198,
+                    "d_x": 112.5,
+                    "d_y": 551.046875,
+                    "locators": "Tag",
+                    "locators_val": "divTGWEBCOMMA127",
+                    "suggest_name": "Showing 21 to 30 of 99 entries"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_help",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Linktext",
+                    "locators_val": "Help?TGWEBCOMMALinkTextTGWEBCOMMA00",
+                    "locator_id": "4",
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077,
+                    "d_y": 6,
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "CSS selector",
+                    "locators_val": "li#menu-item-48 > aTGWEBCOMMA0",
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "LinkText",
+                    "locators_val": "Help?TGWEBCOMMA0",
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='Help?']",
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]",
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "class",
+                    "locators_val": "hfe-menu-itemTGWEBCOMMA6",
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA34",
+                    "suggest_name": "Help?"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "linktext"
+        },
+        {
+            "testcase_element": "ele_help",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Linktext",
+                    "locators_val": "Help?TGWEBCOMMALinkTextTGWEBCOMMA00",
+                    "locator_id": "4",
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077,
+                    "d_y": 6,
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "CSS selector",
+                    "locators_val": "li#menu-item-48 > aTGWEBCOMMA0",
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "LinkText",
+                    "locators_val": "Help?TGWEBCOMMA0",
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='Help?']",
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]",
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "class",
+                    "locators_val": "hfe-menu-itemTGWEBCOMMA6",
+                    "suggest_name": "Help?"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 72,
+                    "d_x": 1077.96875,
+                    "d_y": 6.1875,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA34",
+                    "suggest_name": "Help?"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "linktext"
+        },
+        {
+            "testcase_element": "ele_courses",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Linktext",
+                    "locators_val": "CoursesTGWEBCOMMALinkTextTGWEBCOMMA01",
+                    "locator_id": "4",
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739,
+                    "d_y": 6,
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "CSS selector",
+                    "locators_val": "li#menu-item-1075 > aTGWEBCOMMA0",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "LinkText",
+                    "locators_val": "CoursesTGWEBCOMMA1",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//li[@id='menu-item-1075']//a[normalize-space()='Courses']",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "PartialLinkText",
+                    "locators_val": "CoursTGWEBCOMMA3",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "class",
+                    "locators_val": "hfe-menu-itemTGWEBCOMMA3",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA20",
+                    "suggest_name": "Courses"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "linktext"
+        },
+        {
+            "testcase_element": "ele_courses",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Linktext",
+                    "locators_val": "CoursesTGWEBCOMMALinkTextTGWEBCOMMA01",
+                    "locator_id": "4",
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739,
+                    "d_y": 6,
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "CSS selector",
+                    "locators_val": "li#menu-item-1075 > aTGWEBCOMMA0",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "LinkText",
+                    "locators_val": "CoursesTGWEBCOMMA1",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//li[@id='menu-item-1075']//a[normalize-space()='Courses']",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "PartialLinkText",
+                    "locators_val": "CoursTGWEBCOMMA3",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "class",
+                    "locators_val": "hfe-menu-itemTGWEBCOMMA3",
+                    "suggest_name": "Courses"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 89,
+                    "d_x": 739.65625,
+                    "d_y": 6.1875,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA20",
+                    "suggest_name": "Courses"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "linktext"
+        },
+        {
+            "testcase_element": "ele_CONTACTINFO",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "main#content > div > div > section > div > div:nth-of-type(2) > div > div > div > h2TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682,
+                    "d_y": 186,
+                    "suggest_name": "CONTACT INFO"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682.5,
+                    "d_y": 186.390625,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section > div > div:nth-of-type(2) > div > div > div > h2TGWEBCOMMA0",
+                    "suggest_name": "CONTACT INFO"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682.5,
+                    "d_y": 186.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//h2[normalize-space()='CONTACT INFO']",
+                    "suggest_name": "CONTACT INFO"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682.5,
+                    "d_y": 186.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h2[1]",
+                    "suggest_name": "CONTACT INFO"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682.5,
+                    "d_y": 186.390625,
+                    "locators": "class",
+                    "locators_val": "elementor-heading-title elementor-size-defaultTGWEBCOMMA2",
+                    "suggest_name": "CONTACT INFO"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682.5,
+                    "d_y": 186.390625,
+                    "locators": "Tag",
+                    "locators_val": "h2TGWEBCOMMA1",
+                    "suggest_name": "CONTACT INFO"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_CONTACTINFO",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "main#content > div > div > section > div > div:nth-of-type(2) > div > div > div > h2TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682,
+                    "d_y": 186,
+                    "suggest_name": "CONTACT INFO"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682.5,
+                    "d_y": 186.390625,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section > div > div:nth-of-type(2) > div > div > div > h2TGWEBCOMMA0",
+                    "suggest_name": "CONTACT INFO"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682.5,
+                    "d_y": 186.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//h2[normalize-space()='CONTACT INFO']",
+                    "suggest_name": "CONTACT INFO"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682.5,
+                    "d_y": 186.390625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h2[1]",
+                    "suggest_name": "CONTACT INFO"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682.5,
+                    "d_y": 186.390625,
+                    "locators": "class",
+                    "locators_val": "elementor-heading-title elementor-size-defaultTGWEBCOMMA2",
+                    "suggest_name": "CONTACT INFO"
+                },
+                {
+                    "d_h": 40,
+                    "d_w": 550,
+                    "d_x": 682.5,
+                    "d_y": 186.390625,
+                    "locators": "Tag",
+                    "locators_val": "h2TGWEBCOMMA1",
+                    "suggest_name": "CONTACT INFO"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_resources",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Linktext",
+                    "locators_val": "ResourcesTGWEBCOMMALinkTextTGWEBCOMMA00",
+                    "locator_id": "4",
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954,
+                    "d_y": 82,
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "CSS selector",
+                    "locators_val": "li#menu-item-36 > div > aTGWEBCOMMA0",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "LinkText",
+                    "locators_val": "ResourcesTGWEBCOMMA0",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='Resources']",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[1]/a[1]",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "PartialLinkText",
+                    "locators_val": "ResourcTGWEBCOMMA0",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "class",
+                    "locators_val": "hfe-menu-itemTGWEBCOMMA5",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA22",
+                    "suggest_name": "Resources"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "linktext"
+        },
+        {
+            "testcase_element": "ele_resources",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Linktext",
+                    "locators_val": "ResourcesTGWEBCOMMALinkTextTGWEBCOMMA00",
+                    "locator_id": "4",
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954,
+                    "d_y": 82,
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "CSS selector",
+                    "locators_val": "li#menu-item-36 > div > aTGWEBCOMMA0",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "LinkText",
+                    "locators_val": "ResourcesTGWEBCOMMA0",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='Resources']",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]/div[1]/a[1]",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "PartialLinkText",
+                    "locators_val": "ResourcTGWEBCOMMA0",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "class",
+                    "locators_val": "hfe-menu-itemTGWEBCOMMA5",
+                    "suggest_name": "Resources"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 124,
+                    "d_x": 954.234375,
+                    "d_y": 82.1875,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA22",
+                    "suggest_name": "Resources"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "linktext"
+        },
+        {
+            "testcase_element": "ele_practicepage",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Linktext",
+                    "locators_val": "PracticePageTGWEBCOMMALinkTextTGWEBCOMMA00",
+                    "locator_id": "4",
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829,
+                    "d_y": 6,
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "CSS selector",
+                    "locators_val": "li#menu-item-4098 > aTGWEBCOMMA0",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "LinkText",
+                    "locators_val": "PracticePageTGWEBCOMMA0",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='PracticePage']",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "PartialLinkText",
+                    "locators_val": "PracticePaTGWEBCOMMA0",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "class",
+                    "locators_val": "hfe-menu-itemTGWEBCOMMA4",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA21",
+                    "suggest_name": "PracticePage"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "linktext"
+        },
+        {
+            "testcase_element": "ele_practicepage",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Linktext",
+                    "locators_val": "PracticePageTGWEBCOMMALinkTextTGWEBCOMMA00",
+                    "locator_id": "4",
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829,
+                    "d_y": 6,
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "CSS selector",
+                    "locators_val": "li#menu-item-4098 > aTGWEBCOMMA0",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "LinkText",
+                    "locators_val": "PracticePageTGWEBCOMMA0",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//a[normalize-space()='PracticePage']",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/header[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "PartialLinkText",
+                    "locators_val": "PracticePaTGWEBCOMMA0",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "class",
+                    "locators_val": "hfe-menu-itemTGWEBCOMMA4",
+                    "suggest_name": "PracticePage"
+                },
+                {
+                    "d_h": 55,
+                    "d_w": 125,
+                    "d_x": 829.015625,
+                    "d_y": 6.1875,
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA21",
+                    "suggest_name": "PracticePage"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "linktext"
+        },
+        {
+            "testcase_element": "ele_CurrentCrushName",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='jex']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 548,
+                    "d_x": 16,
+                    "d_y": 116,
+                    "suggest_name": "CurrentCrushName"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_CurrentCrushName",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='jex']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 548,
+                    "d_x": 16,
+                    "d_y": 116,
+                    "suggest_name": "CurrentCrushName"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Destiny",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='glaf']",
+                    "locator_id": "3",
+                    "d_h": 55,
+                    "d_w": 543,
+                    "d_x": 24,
+                    "d_y": 219,
+                    "suggest_name": "Destiny"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Destiny",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='glaf']",
+                    "locator_id": "3",
+                    "d_h": 55,
+                    "d_w": 543,
+                    "d_x": 24,
+                    "d_y": 219,
+                    "suggest_name": "Destiny"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_EnterLastname",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='Enter Last name']",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 199,
+                    "d_x": 690,
+                    "d_y": 485,
+                    "suggest_name": "input664"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 199,
+                    "d_x": 690,
+                    "d_y": 485.8666687011719,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > input:nth-of-type(2)TGWEBCOMMA0",
+                    "suggest_name": "input664"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 199,
+                    "d_x": 690,
+                    "d_y": 485.8666687011719,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[2]",
+                    "suggest_name": "input664"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 199,
+                    "d_x": 690,
+                    "d_y": 485.8666687011719,
+                    "locators": "class",
+                    "locators_val": "nameFldTGWEBCOMMA2",
+                    "suggest_name": "input664"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 199,
+                    "d_x": 690,
+                    "d_y": 485.8666687011719,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA22",
+                    "suggest_name": "input664"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_EnterLastname",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='Enter Last name']",
+                    "locator_id": "3",
+                    "d_h": 30,
+                    "d_w": 199,
+                    "d_x": 690,
+                    "d_y": 485,
+                    "suggest_name": "input664"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 199,
+                    "d_x": 690,
+                    "d_y": 485.8666687011719,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > input:nth-of-type(2)TGWEBCOMMA0",
+                    "suggest_name": "input664"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 199,
+                    "d_x": 690,
+                    "d_y": 485.8666687011719,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[2]",
+                    "suggest_name": "input664"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 199,
+                    "d_x": 690,
+                    "d_y": 485.8666687011719,
+                    "locators": "class",
+                    "locators_val": "nameFldTGWEBCOMMA2",
+                    "suggest_name": "input664"
+                },
+                {
+                    "d_h": 30,
+                    "d_w": 199,
+                    "d_x": 690,
+                    "d_y": 485.8666687011719,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA22",
+                    "suggest_name": "input664"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Checkouthere",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[normalize-space()='Checkout here']",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 129,
+                    "d_x": 690,
+                    "d_y": 597,
+                    "suggest_name": "Checkout here"
+                },
+                {
+                    "d_h": 56,
+                    "d_w": 129,
+                    "d_x": 690,
+                    "d_y": 597.4666748046875,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div:nth-of-type(4) > buttonTGWEBCOMMA0",
+                    "suggest_name": "Checkout here"
+                },
+                {
+                    "d_h": 56,
+                    "d_w": 129,
+                    "d_x": 690,
+                    "d_y": 597.4666748046875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/button[1]",
+                    "suggest_name": "Checkout here"
+                },
+                {
+                    "d_h": 56,
+                    "d_w": 129,
+                    "d_x": 690,
+                    "d_y": 597.4666748046875,
+                    "locators": "class",
+                    "locators_val": "dropbtnTGWEBCOMMA1",
+                    "suggest_name": "Checkout here"
+                },
+                {
+                    "d_h": 56,
+                    "d_w": 129,
+                    "d_x": 690,
+                    "d_y": 597.4666748046875,
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMA2",
+                    "suggest_name": "Checkout here"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Checkouthere",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[normalize-space()='Checkout here']",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 129,
+                    "d_x": 690,
+                    "d_y": 597,
+                    "suggest_name": "Checkout here"
+                },
+                {
+                    "d_h": 56,
+                    "d_w": 129,
+                    "d_x": 690,
+                    "d_y": 597.4666748046875,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div:nth-of-type(4) > buttonTGWEBCOMMA0",
+                    "suggest_name": "Checkout here"
+                },
+                {
+                    "d_h": 56,
+                    "d_w": 129,
+                    "d_x": 690,
+                    "d_y": 597.4666748046875,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/button[1]",
+                    "suggest_name": "Checkout here"
+                },
+                {
+                    "d_h": 56,
+                    "d_w": 129,
+                    "d_x": 690,
+                    "d_y": 597.4666748046875,
+                    "locators": "class",
+                    "locators_val": "dropbtnTGWEBCOMMA1",
+                    "suggest_name": "Checkout here"
+                },
+                {
+                    "d_h": 56,
+                    "d_w": 129,
+                    "d_x": 690,
+                    "d_y": 597.4666748046875,
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMA2",
+                    "suggest_name": "Checkout here"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_FirstchackBox",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "table#tablepress-1 > tbody > tr > td > inputTGWEBCOMMACssSelectorTGWEBCOMMA9",
+                    "locator_id": "9",
+                    "d_h": 14,
+                    "d_w": 14,
+                    "d_x": 130,
+                    "d_y": 240,
+                    "suggest_name": "input333"
+                },
+                {
+                    "d_h": 14,
+                    "d_w": 14,
+                    "d_x": 130,
+                    "d_y": 240.26666259765625,
+                    "locators": "CSS selector",
+                    "locators_val": "table#tablepress-1 > tbody > tr > td > inputTGWEBCOMMA9",
+                    "suggest_name": "input333"
+                },
+                {
+                    "d_h": 14,
+                    "d_w": 14,
+                    "d_x": 130,
+                    "d_y": 240.26666259765625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+                    "suggest_name": "input333"
+                },
+                {
+                    "d_h": 14,
+                    "d_w": 14,
+                    "d_x": 130,
+                    "d_y": 240.26666259765625,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA27",
+                    "suggest_name": "input333"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_FirstchackBox",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "table#tablepress-1 > tbody > tr > td > inputTGWEBCOMMACssSelectorTGWEBCOMMA9",
+                    "locator_id": "9",
+                    "d_h": 14,
+                    "d_w": 14,
+                    "d_x": 130,
+                    "d_y": 240,
+                    "suggest_name": "input333"
+                },
+                {
+                    "d_h": 14,
+                    "d_w": 14,
+                    "d_x": 130,
+                    "d_y": 240.26666259765625,
+                    "locators": "CSS selector",
+                    "locators_val": "table#tablepress-1 > tbody > tr > td > inputTGWEBCOMMA9",
+                    "suggest_name": "input333"
+                },
+                {
+                    "d_h": 14,
+                    "d_w": 14,
+                    "d_x": 130,
+                    "d_y": 240.26666259765625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+                    "suggest_name": "input333"
+                },
+                {
+                    "d_h": 14,
+                    "d_w": 14,
+                    "d_x": 130,
+                    "d_y": 240.26666259765625,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA27",
+                    "suggest_name": "input333"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_MobileNumber",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > input:nth-of-type(2)TGWEBCOMMACssSelectorTGWEBCOMMA3",
+                    "locator_id": "9",
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581,
+                    "suggest_name": "input911"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581.9000244140625,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > input:nth-of-type(2)TGWEBCOMMA3",
+                    "suggest_name": "input911"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581.9000244140625,
+                    "locators": "Xpath",
+                    "locators_val": "//body//div[@id='page']//div[@data-elementor-type='wp-page']//div//div//div//div//div//div//div[1]//div[1]//div[1]//div[1]//input[2]",
+                    "suggest_name": "input911"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581.9000244140625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[2]",
+                    "suggest_name": "input911"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581.9000244140625,
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA2",
+                    "suggest_name": "input911"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581.9000244140625,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA6",
+                    "suggest_name": "input911"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_MobileNumber",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > input:nth-of-type(2)TGWEBCOMMACssSelectorTGWEBCOMMA3",
+                    "locator_id": "9",
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581,
+                    "suggest_name": "input911"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581.9000244140625,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > input:nth-of-type(2)TGWEBCOMMA3",
+                    "suggest_name": "input911"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581.9000244140625,
+                    "locators": "Xpath",
+                    "locators_val": "//body//div[@id='page']//div[@data-elementor-type='wp-page']//div//div//div//div//div//div//div[1]//div[1]//div[1]//div[1]//input[2]",
+                    "suggest_name": "input911"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581.9000244140625,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[2]",
+                    "suggest_name": "input911"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581.9000244140625,
+                    "locators": "class",
+                    "locators_val": "form-controlTGWEBCOMMA2",
+                    "suggest_name": "input911"
+                },
+                {
+                    "d_h": 42,
+                    "d_w": 550,
+                    "d_x": 120,
+                    "d_y": 581.9000244140625,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA6",
+                    "suggest_name": "input911"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_MemoryTest",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h4[normalize-space()='Memory Test']",
+                    "locator_id": "3",
+                    "d_h": 29,
+                    "d_w": 1120,
+                    "d_x": 120,
+                    "d_y": 209,
+                    "suggest_name": "Memory Test"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 1120,
+                    "d_x": 120,
+                    "d_y": 209.5666656494141,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(3) > div > div > div > div > div > h4TGWEBCOMMA0",
+                    "suggest_name": "Memory Test"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 1120,
+                    "d_x": 120,
+                    "d_y": 209.5666656494141,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]",
+                    "suggest_name": "Memory Test"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 1120,
+                    "d_x": 120,
+                    "d_y": 209.5666656494141,
+                    "locators": "Tag",
+                    "locators_val": "h4TGWEBCOMMA1",
+                    "suggest_name": "Memory Test"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_MemoryTest",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h4[normalize-space()='Memory Test']",
+                    "locator_id": "3",
+                    "d_h": 29,
+                    "d_w": 1120,
+                    "d_x": 120,
+                    "d_y": 209,
+                    "suggest_name": "Memory Test"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 1120,
+                    "d_x": 120,
+                    "d_y": 209.5666656494141,
+                    "locators": "CSS selector",
+                    "locators_val": "main#content > div > div > section:nth-of-type(3) > div > div > div > div > div > h4TGWEBCOMMA0",
+                    "suggest_name": "Memory Test"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 1120,
+                    "d_x": 120,
+                    "d_y": 209.5666656494141,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]",
+                    "suggest_name": "Memory Test"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 1120,
+                    "d_x": 120,
+                    "d_y": 209.5666656494141,
+                    "locators": "Tag",
+                    "locators_val": "h4TGWEBCOMMA1",
+                    "suggest_name": "Memory Test"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_OctomerSales2024",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//td[normalize-space()='209']",
+                    "locator_id": "3",
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851,
+                    "d_y": 721,
+                    "suggest_name": "115"
+                },
+                {
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851.683349609375,
+                    "d_y": 721.5,
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > div > div:nth-of-type(3) > div:nth-of-type(3) > div > div > div > div > div:nth-of-type(3) > table > tbody > tr:nth-of-type(9) > td:nth-of-type(7)TGWEBCOMMA0",
+                    "suggest_name": "115"
+                },
+                {
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851.683349609375,
+                    "d_y": 721.5,
+                    "locators": "Xpath",
+                    "locators_val": "//td[normalize-space()='115']",
+                    "suggest_name": "115"
+                },
+                {
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851.683349609375,
+                    "d_y": 721.5,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[9]/td[7]",
+                    "suggest_name": "115"
+                },
+                {
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851.683349609375,
+                    "d_y": 721.5,
+                    "locators": "class",
+                    "locators_val": "text-centerTGWEBCOMMA76",
+                    "suggest_name": "115"
+                },
+                {
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851.683349609375,
+                    "d_y": 721.5,
+                    "locators": "Tag",
+                    "locators_val": "tdTGWEBCOMMA63",
+                    "suggest_name": "115"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_OctomerSales2024",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//td[normalize-space()='209']",
+                    "locator_id": "3",
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851,
+                    "d_y": 721,
+                    "suggest_name": "115"
+                },
+                {
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851.683349609375,
+                    "d_y": 721.5,
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > div > div:nth-of-type(3) > div:nth-of-type(3) > div > div > div > div > div:nth-of-type(3) > table > tbody > tr:nth-of-type(9) > td:nth-of-type(7)TGWEBCOMMA0",
+                    "suggest_name": "115"
+                },
+                {
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851.683349609375,
+                    "d_y": 721.5,
+                    "locators": "Xpath",
+                    "locators_val": "//td[normalize-space()='115']",
+                    "suggest_name": "115"
+                },
+                {
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851.683349609375,
+                    "d_y": 721.5,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[9]/td[7]",
+                    "suggest_name": "115"
+                },
+                {
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851.683349609375,
+                    "d_y": 721.5,
+                    "locators": "class",
+                    "locators_val": "text-centerTGWEBCOMMA76",
+                    "suggest_name": "115"
+                },
+                {
+                    "d_h": 37,
+                    "d_w": 93,
+                    "d_x": 851.683349609375,
+                    "d_y": 721.5,
+                    "locators": "Tag",
+                    "locators_val": "tdTGWEBCOMMA63",
+                    "suggest_name": "115"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Amazon",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//i[@aria-label='Amazon']",
+                    "locator_id": "3",
+                    "d_h": 31,
+                    "d_w": 103,
+                    "d_x": 628,
+                    "d_y": 14,
+                    "suggest_name": "i613"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 103,
+                    "d_x": 628.5,
+                    "d_y": 14,
+                    "locators": "CSS selector",
+                    "locators_val": "div#a-page > div > div > div > a > iTGWEBCOMMA0",
+                    "suggest_name": "i613"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 103,
+                    "d_x": 628.5,
+                    "d_y": 14,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/a[1]/i[1]",
+                    "suggest_name": "i613"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 103,
+                    "d_x": 628.5,
+                    "d_y": 14,
+                    "locators": "class",
+                    "locators_val": "a-icon a-icon-logoTGWEBCOMMA1",
+                    "suggest_name": "i613"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 103,
+                    "d_x": 628.5,
+                    "d_y": 14,
+                    "locators": "Tag",
+                    "locators_val": "iTGWEBCOMMA1",
+                    "suggest_name": "i613"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Amazon",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//i[@aria-label='Amazon']",
+                    "locator_id": "3",
+                    "d_h": 31,
+                    "d_w": 103,
+                    "d_x": 628,
+                    "d_y": 14,
+                    "suggest_name": "i613"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 103,
+                    "d_x": 628.5,
+                    "d_y": 14,
+                    "locators": "CSS selector",
+                    "locators_val": "div#a-page > div > div > div > a > iTGWEBCOMMA0",
+                    "suggest_name": "i613"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 103,
+                    "d_x": 628.5,
+                    "d_y": 14,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/a[1]/i[1]",
+                    "suggest_name": "i613"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 103,
+                    "d_x": 628.5,
+                    "d_y": 14,
+                    "locators": "class",
+                    "locators_val": "a-icon a-icon-logoTGWEBCOMMA1",
+                    "suggest_name": "i613"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 103,
+                    "d_x": 628.5,
+                    "d_y": 14,
+                    "locators": "Tag",
+                    "locators_val": "iTGWEBCOMMA1",
+                    "suggest_name": "i613"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_FirstName",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "input#ap_customer_nameTGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146,
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "id",
+                    "locators_val": "ap_customer_nameTGWEBCOMMA1",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "input#ap_customer_nameTGWEBCOMMA0",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='ap_customer_name']",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[1]/input[1]",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "class",
+                    "locators_val": "a-input-text a-span12 auth-autofocus auth-required-fieldTGWEBCOMMA1",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA6",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_FirstName",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "input#ap_customer_nameTGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146,
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "id",
+                    "locators_val": "ap_customer_nameTGWEBCOMMA1",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "input#ap_customer_nameTGWEBCOMMA0",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='ap_customer_name']",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[1]/input[1]",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "class",
+                    "locators_val": "a-input-text a-span12 auth-autofocus auth-required-fieldTGWEBCOMMA1",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 146.59375,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA6",
+                    "suggest_name": "ap_customer_nameTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_Mobile",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "input#ap_emailTGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212,
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "id",
+                    "locators_val": "ap_emailTGWEBCOMMA1",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "input#ap_emailTGWEBCOMMA0",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='ap_email']",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[2]/div[2]/span[1]/input[1]",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "class",
+                    "locators_val": "a-input-text a-span12 a-spacing-micro auth-required-field auth-require-claim-validationTGWEBCOMMA2",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA7",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_Mobile",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "input#ap_emailTGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212,
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "id",
+                    "locators_val": "ap_emailTGWEBCOMMA1",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "input#ap_emailTGWEBCOMMA0",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='ap_email']",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[2]/div[2]/span[1]/input[1]",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "class",
+                    "locators_val": "a-input-text a-span12 a-spacing-micro auth-required-field auth-require-claim-validationTGWEBCOMMA2",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 212.59375,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA7",
+                    "suggest_name": "ap_emailTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_passwordAmazon",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "input#ap_passwordTGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282,
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "id",
+                    "locators_val": "ap_passwordTGWEBCOMMA1",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "input#ap_passwordTGWEBCOMMA0",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='ap_password']",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[3]/div[1]/input[1]",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "class",
+                    "locators_val": "a-input-text a-span12 auth-required-field auth-require-fields-match auth-require-password-validationTGWEBCOMMA3",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA8",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_passwordAmazon",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "input#ap_passwordTGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282,
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "id",
+                    "locators_val": "ap_passwordTGWEBCOMMA1",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "input#ap_passwordTGWEBCOMMA0",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='ap_password']",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[3]/div[1]/input[1]",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "class",
+                    "locators_val": "a-input-text a-span12 auth-required-field auth-require-fields-match auth-require-password-validationTGWEBCOMMA3",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 31,
+                    "d_w": 312,
+                    "d_x": 524,
+                    "d_y": 282.59375,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA8",
+                    "suggest_name": "ap_passwordTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_continue1",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name='Username']",
+                    "locator_id": "3",
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394,
+                    "suggest_name": "continue1"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "id",
+                    "locators_val": "continue10",
+                    "suggest_name": "continue1",
+                    "locator_id": "7"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "input#continueTGWEBCOMMA0",
+                    "suggest_name": "continue1",
+                    "locator_id": "9"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='continue']",
+                    "suggest_name": "continue1",
+                    "locator_id": "3"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[7]/span[1]/span[1]/input[1]",
+                    "suggest_name": "continue1",
+                    "locator_id": "3"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "class",
+                    "locators_val": "a-button-inputTGWEBCOMMA1",
+                    "suggest_name": "continue1",
+                    "locator_id": "6"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA10",
+                    "suggest_name": "continue1",
+                    "locator_id": "8"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_continue1",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeTextField[@name='Username']",
+                    "locator_id": "3",
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394,
+                    "suggest_name": "continue1"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "id",
+                    "locators_val": "continue10",
+                    "suggest_name": "continue1",
+                    "locator_id": "7"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "CSS selector",
+                    "locators_val": "input#continueTGWEBCOMMA0",
+                    "suggest_name": "continue1",
+                    "locator_id": "9"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='continue']",
+                    "suggest_name": "continue1",
+                    "locator_id": "3"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[7]/span[1]/span[1]/input[1]",
+                    "suggest_name": "continue1",
+                    "locator_id": "3"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "class",
+                    "locators_val": "a-button-inputTGWEBCOMMA1",
+                    "suggest_name": "continue1",
+                    "locator_id": "6"
+                },
+                {
+                    "d_h": 29,
+                    "d_w": 310,
+                    "d_x": 525,
+                    "d_y": 394.59375,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA10",
+                    "suggest_name": "continue1",
+                    "locator_id": "8"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        }
+    ]
+}
