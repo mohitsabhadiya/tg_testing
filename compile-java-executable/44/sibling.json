@@ -78,6 +78,44 @@
             "element_image": "http://192.168.88.234/s/ele-imgs/44/8867.png",
             "element_type": "id",
             "image_url": ""
+        },
+        {
+            "testcase_element": "ele_w",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "emailTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "w"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_w",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "emailTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "w"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
         }
     ]
 }

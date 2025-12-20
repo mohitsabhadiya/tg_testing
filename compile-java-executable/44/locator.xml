@@ -7,4 +7,7 @@
     <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
     <element type="image">http://192.168.88.234/s/ele-imgs/44/8867.png</element>
   </locator>
+  <locator name="ele_w">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
 </locators>
