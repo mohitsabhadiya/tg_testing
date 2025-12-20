@@ -83,7 +83,7 @@
             "image_url": ""
         },
         {
-            "testcase_element": "ele_b22",
+            "testcase_element": "ele_fwfcb22",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -95,7 +95,7 @@
                     "d_w": 103,
                     "d_x": 55,
                     "d_y": 19,
-                    "suggest_name": "b22"
+                    "suggest_name": "fwfcb22"
                 }
             ],
             "iframe_and_shadow_root_data": [],
@@ -103,7 +103,7 @@
             "element_type": "id"
         },
         {
-            "testcase_element": "ele_b22",
+            "testcase_element": "ele_fwfcb22",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -115,7 +115,7 @@
                     "d_w": 103,
                     "d_x": 55,
                     "d_y": 19,
-                    "suggest_name": "b22"
+                    "suggest_name": "fwfcb22"
                 }
             ],
             "iframe_and_shadow_root_data": [],
