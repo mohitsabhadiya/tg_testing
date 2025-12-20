@@ -10,4 +10,7 @@
   <locator name="ele_wcwcv">
     <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_ShopNowMensTShirtsElementcvwecf">
+    <element type="tag">aTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
 </locators>
