@@ -1,0 +1,194 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_dwd",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "emailTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 58,
+                    "d_w": 153,
+                    "d_x": 25,
+                    "d_y": 467,
+                    "suggest_name": "dwd"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_dwd",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "emailTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 58,
+                    "d_w": 153,
+                    "d_x": 25,
+                    "d_y": 467,
+                    "suggest_name": "dwd"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_currentcol799ew",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "emailTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 165,
+                    "d_x": 15,
+                    "d_y": 460,
+                    "suggest_name": "currentcol799ew"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_currentcol799ew",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "emailTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 165,
+                    "d_x": 15,
+                    "d_y": 460,
+                    "suggest_name": "currentcol799ew"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_currentcol799",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ImageButton[1]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "currentcol799"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_currentcol799",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ImageButton[1]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "currentcol799"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_wcwcv",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "emailTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "wcwcv"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_wcwcv",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "emailTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "wcwcv"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_ShopNowMensTShirtsElementcvwecf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ShopNowMensTShirtsElementcvwecf"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_ShopNowMensTShirtsElementcvwecf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ShopNowMensTShirtsElementcvwecf"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "tag"
+        }
+    ]
+}

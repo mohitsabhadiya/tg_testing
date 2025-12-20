@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locators>
+  <locator name="ele_dwd">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_currentcol799ew">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
   <locator name="ele_currentcol799">
     <element type="xpath">//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ImageButton[1]</element>
+  </locator>
+  <locator name="ele_wcwcv">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_ShopNowMensTShirtsElementcvwecf">
+    <element type="tag">aTGWEBCOMMATagTGWEBCOMMA0</element>
   </locator>
 </locators>
