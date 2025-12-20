@@ -52,7 +52,7 @@
             "module_name": "test1",
             "module_description": "",
             "count_resource": "2",
-            "cm_resource_pages": "273,274",
+            "cm_resource_pages": "273,274,275",
             "cm_default_resource": "8873",
             "cm_test_function": "184",
             "cm_test_case": "1108",
@@ -158,6 +158,17 @@
                     "git_restore_page_id": "265",
                     "created": "2025-12-19 07:00:43",
                     "updated": "2025-12-19 07:00:43",
+                    "abo_version_maps": []
+                },
+                {
+                    "version_page_id": "275",
+                    "version_module_id": "52",
+                    "cm_resource": "",
+                    "page_name": "Testdv",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/52/main_275.png",
+                    "git_restore_page_id": "0",
+                    "created": "2025-12-20 08:22:42",
+                    "updated": "2025-12-20 08:22:42",
                     "abo_version_maps": []
                 },
                 {
