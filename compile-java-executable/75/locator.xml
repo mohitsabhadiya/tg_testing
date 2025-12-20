@@ -4,7 +4,7 @@
     <element type="id">aTGWEBCOMMAIdTGWEBCOMMA0</element>
     <element type="image">http://192.168.88.234/s/ele-imgs/75/8955.png</element>
   </locator>
-  <locator name="ele_b22">
+  <locator name="ele_vcwevb22">
     <element type="id">bTGWEBCOMMAIdTGWEBCOMMA0</element>
     <element type="image">http://192.168.88.234/s/ele-imgs/75/8956.png</element>
   </locator>
