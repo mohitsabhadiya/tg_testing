@@ -52,7 +52,7 @@
             "module_name": "issue34",
             "module_description": "",
             "count_resource": "0",
-            "cm_resource_pages": "295",
+            "cm_resource_pages": "295,296",
             "cm_default_resource": "",
             "cm_test_function": "",
             "cm_test_case": "",
@@ -89,6 +89,17 @@
                     "git_restore_page_id": "0",
                     "created": "2025-12-20 09:58:21",
                     "updated": "2025-12-20 09:58:21",
+                    "abo_version_maps": []
+                },
+                {
+                    "version_page_id": "296",
+                    "version_module_id": "62",
+                    "cm_resource": "",
+                    "page_name": "B2",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/62/main_296.png",
+                    "git_restore_page_id": "0",
+                    "created": "2025-12-20 09:58:41",
+                    "updated": "2025-12-20 09:58:41",
                     "abo_version_maps": []
                 },
                 {
