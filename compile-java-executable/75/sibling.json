@@ -124,7 +124,7 @@
             "image_url": ""
         },
         {
-            "testcase_element": "ele_b22scf",
+            "testcase_element": "ele_b22scfvev",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -136,7 +136,7 @@
                     "d_w": 103,
                     "d_x": 55,
                     "d_y": 19,
-                    "suggest_name": "b22scf"
+                    "suggest_name": "b22scfvev"
                 }
             ],
             "iframe_and_shadow_root_data": [],
@@ -144,7 +144,7 @@
             "element_type": "id"
         },
         {
-            "testcase_element": "ele_b22scf",
+            "testcase_element": "ele_b22scfvev",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -156,7 +156,7 @@
                     "d_w": 103,
                     "d_x": 55,
                     "d_y": 19,
-                    "suggest_name": "b22scf"
+                    "suggest_name": "b22scfvev"
                 }
             ],
             "iframe_and_shadow_root_data": [],
