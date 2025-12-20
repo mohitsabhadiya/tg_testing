@@ -6,7 +6,10 @@
   <locator name="ele_b22">
     <element type="id">bTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
-  <locator name="ele_c33">
-    <element type="id">cTGWEBCOMMAIdTGWEBCOMMA0</element>
+  <locator name="ele_b22">
+    <element type="id">bTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_b22">
+    <element type="id">bTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
 </locators>

@@ -77,38 +77,76 @@
             "element_type": "id"
         },
         {
-            "testcase_element": "ele_c33",
+            "testcase_element": "ele_b22",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
                 {
                     "locators": "Id",
-                    "locators_val": "cTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locators_val": "bTGWEBCOMMAIdTGWEBCOMMA0",
                     "locator_id": "7",
-                    "d_h": 100,
-                    "d_w": 123,
-                    "d_x": 0,
-                    "d_y": 230,
-                    "suggest_name": "c33"
+                    "d_h": 40,
+                    "d_w": 103,
+                    "d_x": 55,
+                    "d_y": 19,
+                    "suggest_name": "b22"
                 }
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "id"
         },
         {
-            "testcase_element": "ele_c33",
+            "testcase_element": "ele_b22",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
                 {
                     "locators": "Id",
-                    "locators_val": "cTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locators_val": "bTGWEBCOMMAIdTGWEBCOMMA0",
                     "locator_id": "7",
-                    "d_h": 100,
-                    "d_w": 123,
-                    "d_x": 0,
-                    "d_y": 230,
-                    "suggest_name": "c33"
+                    "d_h": 40,
+                    "d_w": 103,
+                    "d_x": 55,
+                    "d_y": 19,
+                    "suggest_name": "b22"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_b22",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "bTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 103,
+                    "d_x": 55,
+                    "d_y": 19,
+                    "suggest_name": "b22"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_b22",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "bTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 103,
+                    "d_x": 55,
+                    "d_y": 19,
+                    "suggest_name": "b22"
                 }
             ],
             "iframe_and_shadow_root_data": [],
