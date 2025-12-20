@@ -16,4 +16,21 @@
     <element type="id">bTGWEBCOMMAIdTGWEBCOMMA0</element>
     <element type="image">http://192.168.88.234/s/ele-imgs/75/8958.png</element>
   </locator>
+  <locator name="ele_fcf">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/75/8959.png</element>
+  </locator>
+  <locator name="ele_cwcd">
+    <element type="id">aTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_vcevf">
+    <element type="id">countryTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_wdf">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/75/8962.png</element>
+  </locator>
+  <locator name="ele_elecontinue1">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
 </locators>
