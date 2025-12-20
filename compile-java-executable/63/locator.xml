@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_a11">
+    <element type="id">aTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_b22">
+    <element type="id">bTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+</locators>

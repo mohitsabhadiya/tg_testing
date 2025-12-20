@@ -1,0 +1,80 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_a11",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "aTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 192,
+                    "d_w": 254,
+                    "d_x": 8,
+                    "d_y": 157,
+                    "suggest_name": "a11"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_a11",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "aTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 192,
+                    "d_w": 254,
+                    "d_x": 8,
+                    "d_y": 157,
+                    "suggest_name": "a11"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_b22",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "bTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 103,
+                    "d_x": 55,
+                    "d_y": 19,
+                    "suggest_name": "b22"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_b22",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "bTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 40,
+                    "d_w": 103,
+                    "d_x": 55,
+                    "d_y": 19,
+                    "suggest_name": "b22"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        }
+    ]
+}
