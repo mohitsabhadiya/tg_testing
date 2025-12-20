@@ -17,6 +17,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/52/8872.png",
             "element_type": "id"
         },
         {
@@ -36,7 +37,9 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_type": "id"
+            "element_image": "http://192.168.88.234/s/ele-imgs/52/8872.png",
+            "element_type": "id",
+            "image_url": ""
         },
         {
             "testcase_element": "ele_currentcol799",
