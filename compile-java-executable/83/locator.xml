@@ -31,4 +31,7 @@
   <locator name="ele_fewfv">
     <element type="class">inputtext _55r1 _6luyTGWEBCOMMACssClassTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_cwc">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
 </locators>
