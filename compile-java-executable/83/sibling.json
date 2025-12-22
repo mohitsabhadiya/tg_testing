@@ -1,0 +1,206 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_currentcol799utguj",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "countryTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 141,
+                    "d_w": 156,
+                    "d_x": 0,
+                    "d_y": 16,
+                    "suggest_name": "currentcol799utguj"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8964.png",
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_currentcol799utguj",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "countryTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 141,
+                    "d_w": 156,
+                    "d_x": 0,
+                    "d_y": 16,
+                    "suggest_name": "currentcol799utguj"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8964.png",
+            "element_type": "id",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_currentcol799fgeg",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "aTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 348,
+                    "d_w": 437,
+                    "d_x": 218,
+                    "d_y": 437,
+                    "suggest_name": "currentcol799fgeg"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8965.png",
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_currentcol799fgeg",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "aTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 348,
+                    "d_w": 437,
+                    "d_x": 218,
+                    "d_y": 437,
+                    "suggest_name": "currentcol799fgeg"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8965.png",
+            "element_type": "id",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_rf3efe",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "svgTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 221,
+                    "d_w": 216,
+                    "d_x": 20,
+                    "d_y": 65,
+                    "suggest_name": "rf3efe"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8966.png",
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_rf3efe",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "svgTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 221,
+                    "d_w": 216,
+                    "d_x": 20,
+                    "d_y": 65,
+                    "suggest_name": "rf3efe"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8966.png",
+            "element_type": "tag",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_g4rg",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 128,
+                    "d_w": 161,
+                    "d_x": 61,
+                    "d_y": 297,
+                    "suggest_name": "g4rg"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8967.png",
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_g4rg",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 128,
+                    "d_w": 161,
+                    "d_x": 61,
+                    "d_y": 297,
+                    "suggest_name": "g4rg"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8967.png",
+            "element_type": "tag",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_hhj",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "svgTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "hhj"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_hhj",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "svgTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "hhj"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "tag"
+        }
+    ]
+}
