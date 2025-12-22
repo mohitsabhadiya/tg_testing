@@ -6,7 +6,7 @@
     "abo_version": {
         "version_id": "37",
         "app_id": "15",
-        "version_name": "GitVersioning",
+        "version_name": "GitVersioningWithLocal",
         "version_description": "",
         "cm_version_module": "76",
         "platform": "3",
@@ -14,7 +14,7 @@
         "script_type": "3",
         "is_master": "1",
         "is_delete": "0",
-        "xray_project_version": null,
+        "xray_project_version": "",
         "restore_id": "0",
         "is_git_enabled": "1",
         "git_restore_id": "0"
