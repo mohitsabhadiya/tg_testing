@@ -28,4 +28,7 @@
   <locator name="ele_fwefewf">
     <element type="id">fefTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_fewfv">
+    <element type="class">inputtext _55r1 _6luyTGWEBCOMMACssClassTGWEBCOMMA0</element>
+  </locator>
 </locators>

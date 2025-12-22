@@ -315,6 +315,44 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_fewfv",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMACssClassTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "fewfv"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class"
+        },
+        {
+            "testcase_element": "ele_fewfv",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMACssClassTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "fewfv"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class"
         }
     ]
 }
