@@ -124,19 +124,6 @@
     "abo_import_statement": [],
     "abo_maven_dependency": [
         {
-            "maven_id": "124",
-            "user_id": "1",
-            "app_id": "102",
-            "version_id": "227",
-            "maven_title": "mongodb-driver-sync",
-            "group_id": "org.mongodb",
-            "artifact_id": "mongodb-driver-sync",
-            "version": "5.1.0",
-            "maven_dependency": "<dependency>\r\n    <groupId>org.mongodb</groupId>\r\n    <artifactId>mongodb-driver-sync</artifactId>\r\n    <version>5.1.0</version>\r\n</dependency>",
-            "created": "2025-12-22 20:49:30",
-            "updated": "2025-12-22 20:49:30"
-        },
-        {
             "maven_id": "125",
             "user_id": "1",
             "app_id": "102",
