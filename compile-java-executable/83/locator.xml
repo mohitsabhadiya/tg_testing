@@ -22,4 +22,7 @@
   <locator name="ele_gh4rhg">
     <element type="id">gameTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_gbvr4g">
+    <element type="id">gggTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
 </locators>
