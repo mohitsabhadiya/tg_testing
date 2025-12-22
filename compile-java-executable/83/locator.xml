@@ -19,4 +19,7 @@
   <locator name="ele_hhj">
     <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_gh4rhg">
+    <element type="id">gameTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
 </locators>
