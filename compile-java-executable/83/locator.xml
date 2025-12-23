@@ -34,4 +34,20 @@
   <locator name="ele_cwc">
     <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_currentcol799qwdfwf">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/83/8974.png</element>
+  </locator>
+  <locator name="ele_wfwf">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/83/8975.png</element>
+  </locator>
+  <locator name="ele_gvedgv">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/83/8976.png</element>
+  </locator>
+  <locator name="ele_ShopNowMensTShirtsElementdv">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/83/8977.png</element>
+  </locator>
 </locators>

@@ -391,6 +391,170 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_currentcol799qwdfwf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "emailTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 101,
+                    "d_w": 163,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "currentcol799qwdfwf"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8974.png",
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_currentcol799qwdfwf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "emailTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 101,
+                    "d_w": 163,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "currentcol799qwdfwf"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8974.png",
+            "element_type": "id",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_wfwf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "svgTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 243,
+                    "d_w": 253,
+                    "d_x": 8,
+                    "d_y": 0,
+                    "suggest_name": "wfwf"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8975.png",
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_wfwf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "svgTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 243,
+                    "d_w": 253,
+                    "d_x": 8,
+                    "d_y": 0,
+                    "suggest_name": "wfwf"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8975.png",
+            "element_type": "tag",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_gvedgv",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "svgTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 353,
+                    "d_w": 268,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "gvedgv"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8976.png",
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_gvedgv",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "svgTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 353,
+                    "d_w": 268,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "gvedgv"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8976.png",
+            "element_type": "tag",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ShopNowMensTShirtsElementdv",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "svgTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 300,
+                    "d_w": 220,
+                    "d_x": 0,
+                    "d_y": 7,
+                    "suggest_name": "ShopNowMensTShirtsElementdv"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8977.png",
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_ShopNowMensTShirtsElementdv",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "svgTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 300,
+                    "d_w": 220,
+                    "d_x": 0,
+                    "d_y": 7,
+                    "suggest_name": "ShopNowMensTShirtsElementdv"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.234/s/ele-imgs/83/8977.png",
+            "element_type": "tag",
+            "image_url": ""
         }
     ]
 }
