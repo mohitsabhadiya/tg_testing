@@ -1019,17 +1019,7 @@
             "capabilities_keyvalue": "Chrome"
         }
     ],
-    "abo_import_statement": [
-        {
-            "import_statement_id": "37",
-            "user_id": "1",
-            "app_id": "15",
-            "version_id": "38",
-            "import_statement": "import com.mongodb.*; import org.bson.BsonDocument; import org.bson.BsonInt64; import org.bson.Document; import org.bson.conversions.Bson; import com.mongodb.client.MongoClient; import com.mongodb.client.MongoClients; import com.mongodb.client.MongoDatabase; ",
-            "created": "2025-12-24 03:27:08",
-            "updated": null
-        }
-    ],
+    "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [
