@@ -1,11 +1,3 @@
-import com.mongodb.*;
-import org.bson.BsonDocument;
-import org.bson.BsonInt64;
-import org.bson.Document;
-import org.bson.conversions.Bson;
-import com.mongodb.client.MongoClient;
-import com.mongodb.client.MongoClients;
-import com.mongodb.client.MongoDatabase;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -34,49 +26,6 @@ public class newOne {
     public static String var_webString = "sttringgggggenergyyy";
 
     public static int var_webInt = 10;
-
-    @Test(retryAnalyzer = RetryFailedTestCases.class)
-public void a16dec0535() {
-    tg.openBrowser();
-    tg.wait("ele_shop455", ComparisonType.IS_VISIBLE);
-    tg.wait("ele_menstshirt028", ComparisonType.IS_VISIBLE);
-    tg.check.isVisible("ele_mensouterw576");
-    tg.click("ele_menstshirt027", 1);
-    tg.wait("ele_img161", ComparisonType.IS_VISIBLE);
-    tg.scrollToElement("ele_triblendvn874", Direction.DOWN);
-    tg.click("ele_triblendvn874", 1);
-    tg.wait("ele_addtocart031", ComparisonType.IS_VISIBLE);
-    tg.selectDropdownByValue("ele_xssmlxl698", "L");
-    tg.selectDropdownByValue("ele_select899", "2");
-    tg.click("ele_addtocart031", 1);
-    tg.wait("ele_checkout551", ComparisonType.IS_VISIBLE);
-    tg.click("ele_checkout551", 1);
-    tg.testFunction("FCarddetails");
-    tg.click("ele_buttonplac996", 1);
-    tg.wait("ele_finish813", ComparisonType.IS_VISIBLE);
-    tg.click("ele_finish813", 1);
-    tg.printLogs(var_webInt);
-    tg.printLogs(var_webDouble);
-    tg.printLogs(var_webString);
-    tg.customScriptStart();
-    String uri = "mongodb+srv://yogeshappvolution:tqdlativpwmifhbl@testgrid.cz7ueay.mongodb.net/?retryWrites=true&w=majority&appName=testgrid";
-    // Construct a ServerApi instance using the ServerApi.builder() method
-    ServerApi serverApi = ServerApi.builder().version(ServerApiVersion.V1).build();
-    MongoClientSettings settings = MongoClientSettings.builder().applyConnectionString(new ConnectionString(uri)).serverApi(serverApi).build();
-    try (MongoClient mongoClient = MongoClients.create(settings)) {
-        MongoDatabase database = mongoClient.getDatabase("admin");
-        try {
-            // Send a ping to confirm a successful connection
-            Bson command = new BsonDocument("ping", new BsonInt64(1));
-            Document commandResult = database.runCommand(command);
-            System.out.println("Pinged your deployment. You successfully connected to MongoDB!");
-        } catch (MongoException me) {
-            System.err.println(me);
-        }
-    }
-    tg.customScriptEnd();
-    tg.close();
-}
 
     public static void fcarddetails() {
         tg.wait("ele_checkout719", ComparisonType.IS_VISIBLE);
