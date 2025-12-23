@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_currentcol799fef">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/609/9198.png</element>
+  </locator>
+  <locator name="ele_currentcol799wrfe">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/609/9199.png</element>
+  </locator>
+  <locator name="ele_vgergvr">
+    <element type="class">_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51syTGWEBCOMMACssClassTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_currentcol799wfefef">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
+</locators>
