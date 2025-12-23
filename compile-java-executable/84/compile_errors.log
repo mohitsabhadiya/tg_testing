@@ -1,0 +1,32 @@
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/694b0c54ec3de_2590/appium-web/src/test/java/fcarddetailscopy.java:2: error: package org.bson does not exist
+import org.bson.BsonDocument;
+               ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/694b0c54ec3de_2590/appium-web/src/test/java/fcarddetailscopy.java:3: error: package org.bson does not exist
+import org.bson.BsonInt64;
+               ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/694b0c54ec3de_2590/appium-web/src/test/java/fcarddetailscopy.java:4: error: package org.bson does not exist
+import org.bson.Document;
+               ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/694b0c54ec3de_2590/appium-web/src/test/java/fcarddetailscopy.java:5: error: package org.bson.conversions does not exist
+import org.bson.conversions.Bson;
+                           ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/694b0c54ec3de_2590/appium-web/src/test/java/fcarddetailscopy.java:6: error: package com.mongodb.client does not exist
+import com.mongodb.client.MongoClient;
+                         ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/694b0c54ec3de_2590/appium-web/src/test/java/fcarddetailscopy.java:7: error: package com.mongodb.client does not exist
+import com.mongodb.client.MongoClients;
+                         ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/694b0c54ec3de_2590/appium-web/src/test/java/fcarddetailscopy.java:8: error: package com.mongodb.client does not exist
+import com.mongodb.client.MongoDatabase;
+                         ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/694b0c54ec3de_2590/appium-web/src/test/java/fcarddetailscopy.java:1: error: package com.mongodb does not exist
+import com.mongodb.*;
+^
+8 errors
