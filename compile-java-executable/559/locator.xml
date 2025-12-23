@@ -14,8 +14,4 @@
   <locator name="ele_currentcol799wfefef">
     <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
   </locator>
-  <locator name="ele_currentcol799edwdf">
-    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
-    <element type="image">http://192.168.4.15/s/ele-imgs/559/9197.png</element>
-  </locator>
 </locators>
