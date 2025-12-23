@@ -27,4 +27,8 @@ public class GitVersioning {
         tg.wait(2);
         tg.close();
     }
+
+    public static void testfunction() {
+        tg.wait(2);
+    }
 }
