@@ -1,1 +1,17 @@
-[{"variable_type":"int","variable_name":"webInt","variable_value":"10"},{"variable_type":"String","variable_name":"webString","variable_value":"sttringgggggenergyyy"},{"variable_type":"Double","variable_name":"webDouble","variable_value":"10.10"}]
+[
+    {
+        "variable_type": "int",
+        "variable_name": "webInt",
+        "variable_value": "10"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "webString",
+        "variable_value": "sttringgggggenergyyy"
+    },
+    {
+        "variable_type": "Double",
+        "variable_name": "webDouble",
+        "variable_value": "10.10"
+    }
+]
