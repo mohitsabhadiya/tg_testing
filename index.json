@@ -1,14 +1,14 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": 227,
+    "version_id": "227",
     "user_id": "1",
     "abo_version": {
         "version_id": "227",
         "app_id": "102",
         "version_name": "1.0",
         "version_description": "",
-        "cm_version_module": "862",
+        "cm_version_module": "862,1073",
         "platform": "3",
         "ai_modal_id": "cotester_client_0G9baim06XNA1jpbm8wEPBPn",
         "script_type": "3",
@@ -16,7 +16,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "302",
+        "git_restore_id": "0",
         "is_delete": "0"
     },
     "app_id": "102",
@@ -51,15 +51,15 @@
             "parent_id": "0",
             "module_name": "GitVersioni",
             "module_description": "",
-            "count_resource": "4",
+            "count_resource": "5",
             "cm_resource_pages": "846,847",
-            "cm_default_resource": "10654,10655",
+            "cm_default_resource": "10654,10655,10677",
             "cm_test_function": "592",
             "cm_test_case": "1499",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2025-12-23 15:04:00",
+            "view_updated_date_time": "2025-12-25 21:14:26",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "1",
@@ -235,7 +235,7 @@
                 {
                     "version_page_id": 0,
                     "version_module_id": "862",
-                    "cm_resource": "10654,10655",
+                    "cm_resource": "10654,10655,10677",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
                     "abo_version_maps": [
@@ -306,8 +306,87 @@
                             "git_restore_maps_id": "10651",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/862/10655.png"
+                        },
+                        {
+                            "maps_id": "10677",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "862",
+                            "element_name": "ele_shopnow069",
+                            "element_display_name": "Shop Now",
+                            "element_image_url": null,
+                            "element_path_rid": " div:nth-child(2) > shop-button:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\" div:nth-child(2) > shop-button:nth-child(3) > a:nth-child(1)\",\"locator_id\":\"9\",\"d_h\":41,\"d_w\":170,\"d_x\":587.734375,\"d_y\":539.359375,\"suggest_name\":\"shopnow069\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div > shop-button > aTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":41,\"d_w\":170,\"d_x\":587.734375,\"d_y\":539.359375,\"suggest_name\":\"shopnow069\"},{\"locators\":\"PartialLinkText\",\"locators_val\":\"Shop NTGWEBCOMMA0\",\"locator_id\":\"5\",\"d_h\":41,\"d_w\":170,\"d_x\":587.734375,\"d_y\":539.359375,\"suggest_name\":\"shopnow069\"},{\"locators\":\"LinkText\",\"locators_val\":\"Shop NowTGWEBCOMMA0\",\"locator_id\":\"4\",\"d_h\":41,\"d_w\":170,\"d_x\":587.734375,\"d_y\":539.359375,\"suggest_name\":\"shopnow069\"},{\"locators\":\"Tag\",\"locators_val\":\"a\",\"locator_id\":\"8\",\"d_h\":41,\"d_w\":170,\"d_x\":587.734375,\"d_y\":539.359375,\"suggest_name\":\"shopnow069\"}]",
+                            "shadow_data": "{\"is_shadow\":true,\"allShadowHost\":[\"shop-home\",\"shop-app\"],\"tg_css\":[\" div:nth-child(2) > shop-button:nth-child(3) > a:nth-child(1)\",\" iron-pages:nth-child(10) > shop-home:nth-child(1)\",\"shop-app\"]}",
+                            "sibling_selector": "{\"current_element_attrs\":{\"tag\":\"a\",\"tg_attributes\":{\"href\":\"\\/list\\/mens_outerwear\",\"aria-label\":\"Men's Outerwear Shop Now\"}}}",
+                            "tg_text": "Shop Now",
+                            "iframe_and_shadow_root_data": "[{\"is_secure_field\":false,\"is_extension\":true,\"element_list\":[{\"ele_id\":2,\"value\":\"ele_shop349\",\"element_display_name\":\"SHOP\",\"elementTag\":\"shop-appTGWEBCOMMA0\",\"display_name\":\"shop349!@HomeSHOP!@\",\"page_name\":\"HomeSHOP\",\"element_image\":\"\",\"autoheal_elements\":\"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop349\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app[@page='home']\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop349\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop349\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"html > body > shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop349\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop349\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop349\\\"}]\",\"data\":{\"element_name\":\"shop349\",\"script_type\":1,\"platform\":3,\"typeofelement\":\"3\",\"value\":[\"\\/\\/shop-app[@page='home']\"],\"temp_element_id\":0,\"pagenameis\":\"HomeSHOP\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"radious\":0,\"version_module_id\":0,\"autoheal_elements\":[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop349\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/shop-app[@page='home']\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop349\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop349\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop349\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/shop-app\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop349\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop349\"}]}}],\"element_type\":\"shadow_root\"},{\"is_secure_field\":false,\"is_extension\":true,\"element_list\":[{\"ele_id\":2,\"value\":\"ele_homesp0sp305\",\"elementTag\":\"shop-home\",\"element_display_name\":\"ShadowElement\",\"display_name\":\"homesp0sp305!@HomeSHOP!@\",\"page_name\":\"HomeSHOP\",\"element_image\":\"\",\"autoheal_elements\":\"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\" iron-pages:nth-child(10) > shop-home:nth-child(1)\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1414,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"homesp0sp305\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\" iron-pages:nth-child(10) > shop-home:nth-child(1)\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1414,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"homesp0sp305\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"iron-pages > shop-homeTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1414,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"homesp0sp305\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-home\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":1414,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"homesp0sp305\\\"},{\\\"locators\\\":\\\"class\\\",\\\"locators_val\\\":\\\"iron-selectedTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"6\\\",\\\"d_h\\\":1414,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"homesp0sp305\\\"}]\",\"data\":{\"element_name\":\"homesp0sp305\",\"script_type\":1,\"platform\":3,\"typeofelement\":\"9\",\"value\":[\" iron-pages:nth-child(10) > shop-home:nth-child(1)\"],\"temp_element_id\":0,\"pagenameis\":\"HomeSHOP\",\"d_h\":1414,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"radious\":0,\"version_module_id\":0,\"autoheal_elements\":[{\"locators\":\"CSS selector\",\"locators_val\":\" iron-pages:nth-child(10) > shop-home:nth-child(1)\",\"locator_id\":\"9\",\"d_h\":1414,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"suggest_name\":\"homesp0sp305\"},{\"locators\":\"CSS selector\",\"locators_val\":\" iron-pages:nth-child(10) > shop-home:nth-child(1)\",\"locator_id\":\"9\",\"d_h\":1414,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"suggest_name\":\"homesp0sp305\"},{\"locators\":\"CSS selector\",\"locators_val\":\"iron-pages > shop-homeTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1414,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"suggest_name\":\"homesp0sp305\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-home\",\"locator_id\":\"8\",\"d_h\":1414,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"suggest_name\":\"homesp0sp305\"},{\"locators\":\"class\",\"locators_val\":\"iron-selectedTGWEBCOMMA0\",\"locator_id\":\"6\",\"d_h\":1414,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"suggest_name\":\"homesp0sp305\"}]}}],\"element_type\":\"shadow_root\"}]",
+                            "is_iframe_and_shadow_root": "1",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "1",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "9",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "587.734375",
+                            "d_y": "539.359375",
+                            "d_w": "170",
+                            "d_h": "41",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/862/10677.png"
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "version_module_id": "1073",
+            "version_id": "227",
+            "parent_id": "0",
+            "module_name": "Issues",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "",
+            "cm_test_case": "",
+            "cm_test_case_ai": "",
+            "cm_network": "",
+            "cm_renderer": "",
+            "view_updated_date_time": "2025-12-25 21:14:56",
+            "is_updated": "1",
+            "is_complie": "1",
+            "server_ids": "1",
+            "is_running": "1",
+            "is_delete": "0",
+            "abo_vm_test_case": [],
+            "abo_version_proc": [],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "3364",
+                    "user_id": "1",
+                    "app_id": "102",
+                    "version_id": "227",
+                    "version_module_id": "1073",
+                    "description": "",
+                    "action_process": "add_version_module"
+                }
+            ],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "1073",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "image_url": "",
+                    "abo_version_maps": []
                 }
             ]
         }
