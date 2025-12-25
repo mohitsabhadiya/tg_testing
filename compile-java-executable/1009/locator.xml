@@ -7,7 +7,6 @@
     <element type="partiallinktext">Men's T-ShirTGWEBCOMMA0</element>
     <element type="linktext">Men's T-ShirtsTGWEBCOMMA0</element>
     <element type="tag">a</element>
-    <element type="image">http://192.168.4.15/s/ele-imgs/1008/11042.png</element>
     <shadow-data>
       <shadow-host>
         <element type="css">shop-app</element>
@@ -25,7 +24,6 @@
     <element type="partiallinktext">Ladies T-ShirTGWEBCOMMA0</element>
     <element type="linktext">Ladies T-ShirtsTGWEBCOMMA0</element>
     <element type="tag">a</element>
-    <element type="image">http://192.168.4.15/s/ele-imgs/1008/11043.png</element>
     <shadow-data>
       <shadow-host>
         <element type="css">shop-app</element>
