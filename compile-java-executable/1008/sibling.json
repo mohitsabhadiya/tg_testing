@@ -1,0 +1,746 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_menstshirt407",
+            "tg_text": "Men's T-Shirts",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/list/mens_tshirts"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700,
+                    "d_y": 78,
+                    "suggest_name": "menstshirt407"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt407"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#tabContainer > shop-tabs > shop-tab:nth-of-type(3) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt407"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Men's T-ShirTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt407"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Men's T-ShirtsTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt407"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "a",
+                    "locator_id": "8",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt407"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_shop541",
+                            "element_display_name": "SHOP",
+                            "elementTag": "shop-appTGWEBCOMMA0",
+                            "display_name": "shop541!@LadiesOuterwearSHOP!@",
+                            "page_name": "LadiesOuterwearSHOP",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app[@page='list']\",\"locator_id\":\"3\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app\",\"locator_id\":\"3\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"}]",
+                            "data": {
+                                "element_name": "shop541",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//shop-app[@page='list']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "LadiesOuterwearSHOP",
+                                "d_h": 1483,
+                                "d_w": 1345,
+                                "d_x": 0,
+                                "d_y": 0,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app[@page='list']",
+                                        "locator_id": "3",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "html > body > shop-appTGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app",
+                                        "locator_id": "3",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "shop-appTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "shadow_root"
+                }
+            ],
+            "shadow_data": {
+                "is_shadow": true,
+                "allShadowHost": [
+                    "shop-app"
+                ],
+                "tg_css": [
+                    " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
+                    "shop-app"
+                ]
+            },
+            "is_shadow": true,
+            "element_image": "http://192.168.4.15/s/ele-imgs/1008/11042.png",
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_menstshirt407",
+            "tg_text": "Men's T-Shirts",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/list/mens_tshirts"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700,
+                    "d_y": 78,
+                    "suggest_name": "menstshirt407"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt407"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#tabContainer > shop-tabs > shop-tab:nth-of-type(3) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt407"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Men's T-ShirTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt407"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Men's T-ShirtsTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt407"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "a",
+                    "locator_id": "8",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt407"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_shop541",
+                            "element_display_name": "SHOP",
+                            "elementTag": "shop-appTGWEBCOMMA0",
+                            "display_name": "shop541!@LadiesOuterwearSHOP!@",
+                            "page_name": "LadiesOuterwearSHOP",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app[@page='list']\",\"locator_id\":\"3\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app\",\"locator_id\":\"3\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1483,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop541\"}]",
+                            "data": {
+                                "element_name": "shop541",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//shop-app[@page='list']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "LadiesOuterwearSHOP",
+                                "d_h": 1483,
+                                "d_w": 1345,
+                                "d_x": 0,
+                                "d_y": 0,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app[@page='list']",
+                                        "locator_id": "3",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "html > body > shop-appTGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app",
+                                        "locator_id": "3",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "shop-appTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 1483,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop541"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "shadow_root"
+                }
+            ],
+            "shadow_data": {
+                "is_shadow": true,
+                "allShadowHost": [
+                    "shop-app"
+                ],
+                "tg_css": [
+                    " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
+                    "shop-app"
+                ]
+            },
+            "is_shadow": true,
+            "element_image": "http://192.168.4.15/s/ele-imgs/1008/11042.png",
+            "element_type": "css",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ladiestshi686",
+            "tg_text": "Ladies T-Shirts",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/list/ladies_tshirts"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(4) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816,
+                    "d_y": 78,
+                    "suggest_name": "ladiestshi686"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(4) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816.515625,
+                    "d_y": 78.25,
+                    "suggest_name": "ladiestshi686"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#tabContainer > shop-tabs > shop-tab:nth-of-type(4) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816.515625,
+                    "d_y": 78.25,
+                    "suggest_name": "ladiestshi686"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Ladies T-ShirTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816.515625,
+                    "d_y": 78.25,
+                    "suggest_name": "ladiestshi686"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Ladies T-ShirtsTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816.515625,
+                    "d_y": 78.25,
+                    "suggest_name": "ladiestshi686"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "a",
+                    "locator_id": "8",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816.515625,
+                    "d_y": 78.25,
+                    "suggest_name": "ladiestshi686"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_shop025",
+                            "element_display_name": "SHOP",
+                            "elementTag": "shop-appTGWEBCOMMA0",
+                            "display_name": "shop025!@MensTShirtsSHOP!@",
+                            "page_name": "MensTShirtsSHOP",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app[@page='list']\",\"locator_id\":\"3\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app\",\"locator_id\":\"3\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"}]",
+                            "data": {
+                                "element_name": "shop025",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//shop-app[@page='list']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "MensTShirtsSHOP",
+                                "d_h": 6622,
+                                "d_w": 1345,
+                                "d_x": 0,
+                                "d_y": 0,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app[@page='list']",
+                                        "locator_id": "3",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "html > body > shop-appTGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app",
+                                        "locator_id": "3",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "shop-appTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "shadow_root"
+                }
+            ],
+            "shadow_data": {
+                "is_shadow": true,
+                "allShadowHost": [
+                    "shop-app"
+                ],
+                "tg_css": [
+                    " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(4) > a:nth-child(1)",
+                    "shop-app"
+                ]
+            },
+            "is_shadow": true,
+            "element_image": "http://192.168.4.15/s/ele-imgs/1008/11043.png",
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_ladiestshi686",
+            "tg_text": "Ladies T-Shirts",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/list/ladies_tshirts"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(4) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816,
+                    "d_y": 78,
+                    "suggest_name": "ladiestshi686"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(4) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816.515625,
+                    "d_y": 78.25,
+                    "suggest_name": "ladiestshi686"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#tabContainer > shop-tabs > shop-tab:nth-of-type(4) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816.515625,
+                    "d_y": 78.25,
+                    "suggest_name": "ladiestshi686"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Ladies T-ShirTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816.515625,
+                    "d_y": 78.25,
+                    "suggest_name": "ladiestshi686"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Ladies T-ShirtsTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816.515625,
+                    "d_y": 78.25,
+                    "suggest_name": "ladiestshi686"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "a",
+                    "locator_id": "8",
+                    "d_h": 38,
+                    "d_w": 96,
+                    "d_x": 816.515625,
+                    "d_y": 78.25,
+                    "suggest_name": "ladiestshi686"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_shop025",
+                            "element_display_name": "SHOP",
+                            "elementTag": "shop-appTGWEBCOMMA0",
+                            "display_name": "shop025!@MensTShirtsSHOP!@",
+                            "page_name": "MensTShirtsSHOP",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app[@page='list']\",\"locator_id\":\"3\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app\",\"locator_id\":\"3\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":6622,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop025\"}]",
+                            "data": {
+                                "element_name": "shop025",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//shop-app[@page='list']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "MensTShirtsSHOP",
+                                "d_h": 6622,
+                                "d_w": 1345,
+                                "d_x": 0,
+                                "d_y": 0,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app[@page='list']",
+                                        "locator_id": "3",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "html > body > shop-appTGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app",
+                                        "locator_id": "3",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "shop-appTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 6622,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop025"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "shadow_root"
+                }
+            ],
+            "shadow_data": {
+                "is_shadow": true,
+                "allShadowHost": [
+                    "shop-app"
+                ],
+                "tg_css": [
+                    " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(4) > a:nth-child(1)",
+                    "shop-app"
+                ]
+            },
+            "is_shadow": true,
+            "element_image": "http://192.168.4.15/s/ele-imgs/1008/11043.png",
+            "element_type": "css",
+            "image_url": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_menstshirt407" is_shadow="true">
+    <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)</element>
+    <element type="css">div#tabContainer &gt; shop-tabs &gt; shop-tab:nth-of-type(3) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Men's T-ShirTGWEBCOMMA0</element>
+    <element type="linktext">Men's T-ShirtsTGWEBCOMMA0</element>
+    <element type="tag">a</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/1008/11042.png</element>
+    <shadow-data>
+      <shadow-host>
+        <element type="css">shop-app</element>
+      </shadow-host>
+      <tg-css>
+        <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)</element>
+        <element type="css">shop-app</element>
+      </tg-css>
+    </shadow-data>
+  </locator>
+  <locator name="ele_ladiestshi686" is_shadow="true">
+    <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(4) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(4) &gt; a:nth-child(1)</element>
+    <element type="css">div#tabContainer &gt; shop-tabs &gt; shop-tab:nth-of-type(4) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Ladies T-ShirTGWEBCOMMA0</element>
+    <element type="linktext">Ladies T-ShirtsTGWEBCOMMA0</element>
+    <element type="tag">a</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/1008/11043.png</element>
+    <shadow-data>
+      <shadow-host>
+        <element type="css">shop-app</element>
+      </shadow-host>
+      <tg-css>
+        <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(4) &gt; a:nth-child(1)</element>
+        <element type="css">shop-app</element>
+      </tg-css>
+    </shadow-data>
+  </locator>
+</locators>

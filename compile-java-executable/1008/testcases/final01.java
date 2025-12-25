@@ -26,6 +26,10 @@ public class final01 {
 	public void final01() {
 		tg.openBrowser();
 		tg.wait(1);
+		tg.wait("ele_menstshirt407", ComparisonType.IS_VISIBLE);
+		tg.click("ele_menstshirt407", 1);
+		tg.wait("ele_ladiestshi686", ComparisonType.IS_VISIBLE);
+		tg.click("ele_ladiestshi686", 1);
 		tg.close();
 	}
 }
