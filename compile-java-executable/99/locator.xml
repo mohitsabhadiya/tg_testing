@@ -2,30 +2,39 @@
 <locators>
   <locator name="ele_currentcol799utguj">
     <element type="id">countryTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/99/9209.png</element>
   </locator>
   <locator name="ele_rf3efe">
     <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/99/9210.png</element>
   </locator>
   <locator name="ele_vegv">
     <element type="id">gameTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/99/9211.png</element>
   </locator>
   <locator name="ele_currentcol799fgeg">
     <element type="id">aTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/99/9212.png</element>
   </locator>
   <locator name="ele_g4rg">
     <element type="tag">aTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/99/9213.png</element>
   </locator>
   <locator name="ele_currentcol799qwdfwf">
     <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/99/9214.png</element>
   </locator>
   <locator name="ele_wfwf">
     <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/99/9215.png</element>
   </locator>
   <locator name="ele_gvedgv">
     <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/99/9216.png</element>
   </locator>
   <locator name="ele_ShopNowMensTShirtsElementdv">
     <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.234/s/ele-imgs/99/9217.png</element>
   </locator>
   <locator name="ele_hhj">
     <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
