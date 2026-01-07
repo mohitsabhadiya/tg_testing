@@ -77,6 +77,44 @@
             "element_type": "tag"
         },
         {
+            "testcase_element": "ele_vegv",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "gameTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 146,
+                    "d_w": 240,
+                    "d_x": 34,
+                    "d_y": 0,
+                    "suggest_name": "vegv"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
+            "testcase_element": "ele_vegv",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Id",
+                    "locators_val": "gameTGWEBCOMMAIdTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 146,
+                    "d_w": 240,
+                    "d_x": 34,
+                    "d_y": 0,
+                    "suggest_name": "vegv"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id"
+        },
+        {
             "testcase_element": "ele_currentcol799fgeg",
             "tg_text": "",
             "sibling_selector": [],

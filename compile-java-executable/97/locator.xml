@@ -6,6 +6,9 @@
   <locator name="ele_rf3efe">
     <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_vegv">
+    <element type="id">gameTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
   <locator name="ele_currentcol799fgeg">
     <element type="id">aTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
