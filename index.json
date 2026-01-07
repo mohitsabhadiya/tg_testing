@@ -98,10 +98,19 @@
                     "thread_id": null,
                     "tc_description": "",
                     "is_deleted": "0000-00-00 00:00:00",
-                    "updated_at": "2026-01-08 00:26:31",
+                    "updated_at": "2026-01-08 00:27:33",
                     "created_at": "2026-01-08 00:26:31",
                     "figma_id": "0",
-                    "abo_vm_test_case_manual_steps": []
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "166",
+                            "tc_id": "25",
+                            "step_order": "1",
+                            "step_action": "wfdf",
+                            "created_at": "2026-01-08 00:27:33",
+                            "updated_at": "2026-01-08 00:27:33"
+                        }
+                    ]
                 }
             ],
             "abo_vm_network_assert": [
