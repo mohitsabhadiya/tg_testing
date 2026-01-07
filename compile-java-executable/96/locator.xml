@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_currentcol799utguj">
+    <element type="id">countryTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_rf3efe">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_currentcol799fgeg">
+    <element type="id">aTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_g4rg">
+    <element type="tag">aTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_currentcol799qwdfwf">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_wfwf">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_gvedgv">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_ShopNowMensTShirtsElementdv">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_hhj">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_gh4rhg">
+    <element type="id">gameTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_gbvr4g">
+    <element type="id">gggTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_fwefewf">
+    <element type="id">fefTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_fewfv">
+    <element type="class">inputtext _55r1 _6luyTGWEBCOMMACssClassTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_cwc">
+    <element type="tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
+</locators>
