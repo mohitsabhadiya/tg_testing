@@ -114,7 +114,7 @@
     <element type="tag">input</element>
   </locator>
   <locator name="ele_cvv415">
-    <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(2) &gt; div:nth-child(4) &gt; shop-input:nth-child(3) &gt; input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(2) &gt; div:nth-child(4) &gt; shop-input:nth-child(3) &gt; input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
     <element type="id">ccCVVTGWEBCOMMA0</element>
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(2) &gt; div:nth-child(4) &gt; shop-input:nth-child(3) &gt; input:nth-child(1)</element>
     <element type="css">input#ccCVVTGWEBCOMMA0</element>
@@ -140,8 +140,25 @@
     <element type="partiallinktext">FiniTGWEBCOMMA0</element>
     <element type="tag">a</element>
   </locator>
+  <locator name="ele_menstshirt027" is_shadow="true">
+    <element type="css">app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)</element>
+    <element type="css">div#tabContainer &gt; shop-tabs &gt; shop-tab:nth-of-type(3) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Men's T-ShirTGWEBCOMMA0</element>
+    <element type="linktext">Men's T-ShirtsTGWEBCOMMA0</element>
+    <element type="tag">a</element>
+    <shadow-data>
+      <shadow-host>
+        <element type="css">shop-app</element>
+      </shadow-host>
+      <tg-css>
+        <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)</element>
+        <element type="css">shop-app</element>
+      </tg-css>
+    </shadow-data>
+  </locator>
   <locator name="ele_shop455" is_shadow="true">
-    <element type="css"> app-header:nth-child(8) &gt; app-toolbar:nth-child(1) &gt; div:nth-child(2) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">app-header:nth-child(8) &gt; app-toolbar:nth-child(1) &gt; div:nth-child(2) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
     <element type="css"> app-header:nth-child(8) &gt; app-toolbar:nth-child(1) &gt; div:nth-child(2) &gt; a:nth-child(1)</element>
     <element type="css">app-header#header &gt; app-toolbar &gt; div:nth-of-type(2) &gt; aTGWEBCOMMA0</element>
     <element type="partiallinktext">SHOPTGWEBCOMMA0</element>
@@ -158,8 +175,8 @@
     </shadow-data>
   </locator>
   <locator name="ele_menstshirt027" is_shadow="true">
-    <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
-    <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)</element>
+    <element type="css">app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)</element>
     <element type="css">div#tabContainer &gt; shop-tabs &gt; shop-tab:nth-of-type(3) &gt; aTGWEBCOMMA0</element>
     <element type="partiallinktext">Men's T-ShirTGWEBCOMMA0</element>
     <element type="linktext">Men's T-ShirtsTGWEBCOMMA0</element>

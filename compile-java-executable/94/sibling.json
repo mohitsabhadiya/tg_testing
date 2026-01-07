@@ -9290,7 +9290,7 @@
             "locator": [
                 {
                     "locators": "Css",
-                    "locators_val": " div:nth-child(2) > iron-pages:nth-child(1) > div:nth-child(1) > iron-form:nth-child(1) > form:nth-child(1) > div:nth-child(3) > section:nth-child(2) > div:nth-child(4) > shop-input:nth-child(3) > input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locators_val": "div:nth-child(2) > iron-pages:nth-child(1) > div:nth-child(1) > iron-form:nth-child(1) > form:nth-child(1) > div:nth-child(3) > section:nth-child(2) > div:nth-child(4) > shop-input:nth-child(3) > input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
                     "locator_id": "9",
                     "d_h": 34,
                     "d_w": 131,
@@ -9553,7 +9553,7 @@
             "locator": [
                 {
                     "locators": "Css",
-                    "locators_val": " div:nth-child(2) > iron-pages:nth-child(1) > div:nth-child(1) > iron-form:nth-child(1) > form:nth-child(1) > div:nth-child(3) > section:nth-child(2) > div:nth-child(4) > shop-input:nth-child(3) > input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locators_val": "div:nth-child(2) > iron-pages:nth-child(1) > div:nth-child(1) > iron-form:nth-child(1) > form:nth-child(1) > div:nth-child(3) > section:nth-child(2) > div:nth-child(4) > shop-input:nth-child(3) > input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
                     "locator_id": "9",
                     "d_h": 34,
                     "d_w": 131,
@@ -11475,370 +11475,6 @@
             "element_type": "linktext"
         },
         {
-            "testcase_element": "ele_shop455",
-            "tg_text": "SHOP",
-            "sibling_selector": {
-                "parent": {
-                    "tag": "div",
-                    "tg_attributes": {
-                        "class": "logo",
-                        "main-title": ""
-                    }
-                },
-                "current_element_attrs": {
-                    "tag": "a",
-                    "tg_attributes": {
-                        "href": "/",
-                        "aria-label": "SHOP Home"
-                    }
-                }
-            },
-            "locator": [
-                {
-                    "locators": "Css",
-                    "locators_val": " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
-                    "locator_id": "9",
-                    "d_h": 24,
-                    "d_w": 65,
-                    "d_x": 640,
-                    "d_y": 22,
-                    "suggest_name": "shop455"
-                },
-                {
-                    "locators": "CSS selector",
-                    "locators_val": " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)",
-                    "locator_id": "9",
-                    "d_h": 24,
-                    "d_w": 65,
-                    "d_x": 640.21875,
-                    "d_y": 22,
-                    "suggest_name": "shop455"
-                },
-                {
-                    "locators": "CSS selector",
-                    "locators_val": "app-header#header > app-toolbar > div:nth-of-type(2) > aTGWEBCOMMA0",
-                    "locator_id": "9",
-                    "d_h": 24,
-                    "d_w": 65,
-                    "d_x": 640.21875,
-                    "d_y": 22,
-                    "suggest_name": "shop455"
-                },
-                {
-                    "locators": "PartialLinkText",
-                    "locators_val": "SHOPTGWEBCOMMA0",
-                    "locator_id": "5",
-                    "d_h": 24,
-                    "d_w": 65,
-                    "d_x": 640.21875,
-                    "d_y": 22,
-                    "suggest_name": "shop455"
-                },
-                {
-                    "locators": "Tag",
-                    "locators_val": "a",
-                    "locator_id": "8",
-                    "d_h": 24,
-                    "d_w": 65,
-                    "d_x": 640.21875,
-                    "d_y": 22,
-                    "suggest_name": "shop455"
-                }
-            ],
-            "iframe_and_shadow_root_data": [
-                {
-                    "is_secure_field": false,
-                    "is_extension": true,
-                    "element_list": [
-                        {
-                            "ele_id": 2,
-                            "value": "ele_shop147",
-                            "element_display_name": "SHOP",
-                            "elementTag": "shop-appTGWEBCOMMA0",
-                            "display_name": "shop147!@HomeSHOP!@",
-                            "page_name": "HomeSHOP",
-                            "element_image": "",
-                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app[@page='home']\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"}]",
-                            "data": {
-                                "element_name": "shop147",
-                                "script_type": 1,
-                                "platform": 3,
-                                "typeofelement": "3",
-                                "value": [
-                                    "//shop-app[@page='home']"
-                                ],
-                                "temp_element_id": 0,
-                                "pagenameis": "HomeSHOP",
-                                "d_h": 1661,
-                                "d_w": 1345,
-                                "d_x": 0,
-                                "d_y": 0,
-                                "radious": 0,
-                                "version_module_id": 0,
-                                "autoheal_elements": [
-                                    {
-                                        "locators": "CSS selector",
-                                        "locators_val": "shop-app",
-                                        "locator_id": "9",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    },
-                                    {
-                                        "locators": "Xpath",
-                                        "locators_val": "//shop-app[@page='home']",
-                                        "locator_id": "3",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    },
-                                    {
-                                        "locators": "CSS selector",
-                                        "locators_val": "shop-app",
-                                        "locator_id": "9",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    },
-                                    {
-                                        "locators": "CSS selector",
-                                        "locators_val": "html > body > shop-appTGWEBCOMMA0",
-                                        "locator_id": "9",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    },
-                                    {
-                                        "locators": "Xpath",
-                                        "locators_val": "//shop-app",
-                                        "locator_id": "3",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    },
-                                    {
-                                        "locators": "Tag",
-                                        "locators_val": "shop-appTGWEBCOMMA0",
-                                        "locator_id": "8",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "element_type": "shadow_root"
-                }
-            ],
-            "shadow_data": {
-                "is_shadow": true,
-                "allShadowHost": [
-                    "shop-app"
-                ],
-                "tg_css": [
-                    " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)",
-                    "shop-app"
-                ]
-            },
-            "is_shadow": true,
-            "element_type": "css"
-        },
-        {
-            "testcase_element": "ele_shop455",
-            "tg_text": "SHOP",
-            "sibling_selector": {
-                "parent": {
-                    "tag": "div",
-                    "tg_attributes": {
-                        "class": "logo",
-                        "main-title": ""
-                    }
-                },
-                "current_element_attrs": {
-                    "tag": "a",
-                    "tg_attributes": {
-                        "href": "/",
-                        "aria-label": "SHOP Home"
-                    }
-                }
-            },
-            "locator": [
-                {
-                    "locators": "Css",
-                    "locators_val": " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
-                    "locator_id": "9",
-                    "d_h": 24,
-                    "d_w": 65,
-                    "d_x": 640,
-                    "d_y": 22,
-                    "suggest_name": "shop455"
-                },
-                {
-                    "locators": "CSS selector",
-                    "locators_val": " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)",
-                    "locator_id": "9",
-                    "d_h": 24,
-                    "d_w": 65,
-                    "d_x": 640.21875,
-                    "d_y": 22,
-                    "suggest_name": "shop455"
-                },
-                {
-                    "locators": "CSS selector",
-                    "locators_val": "app-header#header > app-toolbar > div:nth-of-type(2) > aTGWEBCOMMA0",
-                    "locator_id": "9",
-                    "d_h": 24,
-                    "d_w": 65,
-                    "d_x": 640.21875,
-                    "d_y": 22,
-                    "suggest_name": "shop455"
-                },
-                {
-                    "locators": "PartialLinkText",
-                    "locators_val": "SHOPTGWEBCOMMA0",
-                    "locator_id": "5",
-                    "d_h": 24,
-                    "d_w": 65,
-                    "d_x": 640.21875,
-                    "d_y": 22,
-                    "suggest_name": "shop455"
-                },
-                {
-                    "locators": "Tag",
-                    "locators_val": "a",
-                    "locator_id": "8",
-                    "d_h": 24,
-                    "d_w": 65,
-                    "d_x": 640.21875,
-                    "d_y": 22,
-                    "suggest_name": "shop455"
-                }
-            ],
-            "iframe_and_shadow_root_data": [
-                {
-                    "is_secure_field": false,
-                    "is_extension": true,
-                    "element_list": [
-                        {
-                            "ele_id": 2,
-                            "value": "ele_shop147",
-                            "element_display_name": "SHOP",
-                            "elementTag": "shop-appTGWEBCOMMA0",
-                            "display_name": "shop147!@HomeSHOP!@",
-                            "page_name": "HomeSHOP",
-                            "element_image": "",
-                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app[@page='home']\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"}]",
-                            "data": {
-                                "element_name": "shop147",
-                                "script_type": 1,
-                                "platform": 3,
-                                "typeofelement": "3",
-                                "value": [
-                                    "//shop-app[@page='home']"
-                                ],
-                                "temp_element_id": 0,
-                                "pagenameis": "HomeSHOP",
-                                "d_h": 1661,
-                                "d_w": 1345,
-                                "d_x": 0,
-                                "d_y": 0,
-                                "radious": 0,
-                                "version_module_id": 0,
-                                "autoheal_elements": [
-                                    {
-                                        "locators": "CSS selector",
-                                        "locators_val": "shop-app",
-                                        "locator_id": "9",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    },
-                                    {
-                                        "locators": "Xpath",
-                                        "locators_val": "//shop-app[@page='home']",
-                                        "locator_id": "3",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    },
-                                    {
-                                        "locators": "CSS selector",
-                                        "locators_val": "shop-app",
-                                        "locator_id": "9",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    },
-                                    {
-                                        "locators": "CSS selector",
-                                        "locators_val": "html > body > shop-appTGWEBCOMMA0",
-                                        "locator_id": "9",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    },
-                                    {
-                                        "locators": "Xpath",
-                                        "locators_val": "//shop-app",
-                                        "locator_id": "3",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    },
-                                    {
-                                        "locators": "Tag",
-                                        "locators_val": "shop-appTGWEBCOMMA0",
-                                        "locator_id": "8",
-                                        "d_h": 1661,
-                                        "d_w": 1345,
-                                        "d_x": 0,
-                                        "d_y": 0,
-                                        "suggest_name": "shop147"
-                                    }
-                                ]
-                            }
-                        }
-                    ],
-                    "element_type": "shadow_root"
-                }
-            ],
-            "shadow_data": {
-                "is_shadow": true,
-                "allShadowHost": [
-                    "shop-app"
-                ],
-                "tg_css": [
-                    " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)",
-                    "shop-app"
-                ]
-            },
-            "is_shadow": true,
-            "element_type": "css"
-        },
-        {
             "testcase_element": "ele_menstshirt027",
             "tg_text": "Men's T-Shirts",
             "sibling_selector": {
@@ -11852,7 +11488,7 @@
             "locator": [
                 {
                     "locators": "Css",
-                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locators_val": "app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
                     "locator_id": "9",
                     "d_h": 38,
                     "d_w": 92,
@@ -11862,7 +11498,7 @@
                 },
                 {
                     "locators": "CSS selector",
-                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
+                    "locators_val": "app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
                     "locator_id": "9",
                     "d_h": 38,
                     "d_w": 92,
@@ -12036,7 +11672,7 @@
             "locator": [
                 {
                     "locators": "Css",
-                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locators_val": "app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
                     "locator_id": "9",
                     "d_h": 38,
                     "d_w": 92,
@@ -12046,7 +11682,739 @@
                 },
                 {
                     "locators": "CSS selector",
-                    "locators_val": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
+                    "locators_val": "app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt027"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#tabContainer > shop-tabs > shop-tab:nth-of-type(3) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt027"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Men's T-ShirTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt027"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Men's T-ShirtsTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt027"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "a",
+                    "locator_id": "8",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt027"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_shop283",
+                            "element_display_name": "SHOP",
+                            "elementTag": "shop-appTGWEBCOMMA0",
+                            "display_name": "shop283!@HomeSHOP!@",
+                            "page_name": "HomeSHOP",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app[@page='home']\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"}]",
+                            "data": {
+                                "element_name": "shop283",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//shop-app[@page='home']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "HomeSHOP",
+                                "d_h": 1661,
+                                "d_w": 1345,
+                                "d_x": 0,
+                                "d_y": 0,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app[@page='home']",
+                                        "locator_id": "3",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "html > body > shop-appTGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app",
+                                        "locator_id": "3",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "shop-appTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "shadow_root"
+                }
+            ],
+            "shadow_data": {
+                "is_shadow": true,
+                "allShadowHost": [
+                    "shop-app"
+                ],
+                "tg_css": [
+                    " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
+                    "shop-app"
+                ]
+            },
+            "is_shadow": true,
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_shop455",
+            "tg_text": "SHOP",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "logo",
+                        "main-title": ""
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/",
+                        "aria-label": "SHOP Home"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 65,
+                    "d_x": 640,
+                    "d_y": 22,
+                    "suggest_name": "shop455"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 65,
+                    "d_x": 640.21875,
+                    "d_y": 22,
+                    "suggest_name": "shop455"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "app-header#header > app-toolbar > div:nth-of-type(2) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 65,
+                    "d_x": 640.21875,
+                    "d_y": 22,
+                    "suggest_name": "shop455"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "SHOPTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 24,
+                    "d_w": 65,
+                    "d_x": 640.21875,
+                    "d_y": 22,
+                    "suggest_name": "shop455"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "a",
+                    "locator_id": "8",
+                    "d_h": 24,
+                    "d_w": 65,
+                    "d_x": 640.21875,
+                    "d_y": 22,
+                    "suggest_name": "shop455"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_shop147",
+                            "element_display_name": "SHOP",
+                            "elementTag": "shop-appTGWEBCOMMA0",
+                            "display_name": "shop147!@HomeSHOP!@",
+                            "page_name": "HomeSHOP",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app[@page='home']\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"}]",
+                            "data": {
+                                "element_name": "shop147",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//shop-app[@page='home']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "HomeSHOP",
+                                "d_h": 1661,
+                                "d_w": 1345,
+                                "d_x": 0,
+                                "d_y": 0,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app[@page='home']",
+                                        "locator_id": "3",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "html > body > shop-appTGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app",
+                                        "locator_id": "3",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "shop-appTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "shadow_root"
+                }
+            ],
+            "shadow_data": {
+                "is_shadow": true,
+                "allShadowHost": [
+                    "shop-app"
+                ],
+                "tg_css": [
+                    " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)",
+                    "shop-app"
+                ]
+            },
+            "is_shadow": true,
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_shop455",
+            "tg_text": "SHOP",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "logo",
+                        "main-title": ""
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/",
+                        "aria-label": "SHOP Home"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 65,
+                    "d_x": 640,
+                    "d_y": 22,
+                    "suggest_name": "shop455"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 65,
+                    "d_x": 640.21875,
+                    "d_y": 22,
+                    "suggest_name": "shop455"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "app-header#header > app-toolbar > div:nth-of-type(2) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 65,
+                    "d_x": 640.21875,
+                    "d_y": 22,
+                    "suggest_name": "shop455"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "SHOPTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 24,
+                    "d_w": 65,
+                    "d_x": 640.21875,
+                    "d_y": 22,
+                    "suggest_name": "shop455"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "a",
+                    "locator_id": "8",
+                    "d_h": 24,
+                    "d_w": 65,
+                    "d_x": 640.21875,
+                    "d_y": 22,
+                    "suggest_name": "shop455"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_shop147",
+                            "element_display_name": "SHOP",
+                            "elementTag": "shop-appTGWEBCOMMA0",
+                            "display_name": "shop147!@HomeSHOP!@",
+                            "page_name": "HomeSHOP",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app[@page='home']\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"}]",
+                            "data": {
+                                "element_name": "shop147",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//shop-app[@page='home']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "HomeSHOP",
+                                "d_h": 1661,
+                                "d_w": 1345,
+                                "d_x": 0,
+                                "d_y": 0,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app[@page='home']",
+                                        "locator_id": "3",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "html > body > shop-appTGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app",
+                                        "locator_id": "3",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "shop-appTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop147"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "shadow_root"
+                }
+            ],
+            "shadow_data": {
+                "is_shadow": true,
+                "allShadowHost": [
+                    "shop-app"
+                ],
+                "tg_css": [
+                    " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)",
+                    "shop-app"
+                ]
+            },
+            "is_shadow": true,
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_menstshirt027",
+            "tg_text": "Men's T-Shirts",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/list/mens_tshirts"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700,
+                    "d_y": 78,
+                    "suggest_name": "menstshirt027"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt027"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#tabContainer > shop-tabs > shop-tab:nth-of-type(3) > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt027"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Men's T-ShirTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt027"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Men's T-ShirtsTGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt027"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "a",
+                    "locator_id": "8",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700.453125,
+                    "d_y": 78.25,
+                    "suggest_name": "menstshirt027"
+                }
+            ],
+            "iframe_and_shadow_root_data": [
+                {
+                    "is_secure_field": false,
+                    "is_extension": true,
+                    "element_list": [
+                        {
+                            "ele_id": 2,
+                            "value": "ele_shop283",
+                            "element_display_name": "SHOP",
+                            "elementTag": "shop-appTGWEBCOMMA0",
+                            "display_name": "shop283!@HomeSHOP!@",
+                            "page_name": "HomeSHOP",
+                            "element_image": "",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app[@page='home']\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"Xpath\",\"locators_val\":\"//shop-app\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"}]",
+                            "data": {
+                                "element_name": "shop283",
+                                "script_type": 1,
+                                "platform": 3,
+                                "typeofelement": "3",
+                                "value": [
+                                    "//shop-app[@page='home']"
+                                ],
+                                "temp_element_id": 0,
+                                "pagenameis": "HomeSHOP",
+                                "d_h": 1661,
+                                "d_w": 1345,
+                                "d_x": 0,
+                                "d_y": 0,
+                                "radious": 0,
+                                "version_module_id": 0,
+                                "autoheal_elements": [
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app[@page='home']",
+                                        "locator_id": "3",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "shop-app",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    },
+                                    {
+                                        "locators": "CSS selector",
+                                        "locators_val": "html > body > shop-appTGWEBCOMMA0",
+                                        "locator_id": "9",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    },
+                                    {
+                                        "locators": "Xpath",
+                                        "locators_val": "//shop-app",
+                                        "locator_id": "3",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    },
+                                    {
+                                        "locators": "Tag",
+                                        "locators_val": "shop-appTGWEBCOMMA0",
+                                        "locator_id": "8",
+                                        "d_h": 1661,
+                                        "d_w": 1345,
+                                        "d_x": 0,
+                                        "d_y": 0,
+                                        "suggest_name": "shop283"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "element_type": "shadow_root"
+                }
+            ],
+            "shadow_data": {
+                "is_shadow": true,
+                "allShadowHost": [
+                    "shop-app"
+                ],
+                "tg_css": [
+                    " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
+                    "shop-app"
+                ]
+            },
+            "is_shadow": true,
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_menstshirt027",
+            "tg_text": "Men's T-Shirts",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/list/mens_tshirts"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 92,
+                    "d_x": 700,
+                    "d_y": 78,
+                    "suggest_name": "menstshirt027"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)",
                     "locator_id": "9",
                     "d_h": 38,
                     "d_w": 92,
