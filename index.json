@@ -1,14 +1,14 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "38",
+    "version_id": 38,
     "user_id": "1",
     "abo_version": {
         "version_id": "38",
         "app_id": "15",
         "version_name": "DeleteIssue",
         "version_description": "",
-        "cm_version_module": "90",
+        "cm_version_module": "93",
         "platform": "3",
         "ai_modal_id": null,
         "script_type": "3",
@@ -17,7 +17,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "0"
+        "git_restore_id": "34"
     },
     "app_id": "15",
     "platform": "3",
@@ -46,20 +46,20 @@
     },
     "abo_version_module": [
         {
-            "version_module_id": "90",
+            "version_module_id": "93",
             "version_id": "38",
             "parent_id": "0",
             "module_name": "tet",
             "module_description": "",
             "count_resource": "23",
-            "cm_resource_pages": "384,385,386,387,388,389",
-            "cm_default_resource": "9092,9093",
+            "cm_resource_pages": "390,391,392,393,394,395",
+            "cm_default_resource": "9115,9116",
             "cm_test_function": "",
-            "cm_test_case": "1120",
+            "cm_test_case": "1121",
             "cm_test_case_ai": "",
-            "cm_network": "26",
+            "cm_network": "27",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-01-08 00:24:32",
+            "view_updated_date_time": "2026-01-08 00:27:49",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "1",
@@ -67,8 +67,8 @@
             "is_delete": "0",
             "abo_vm_test_case": [
                 {
-                    "tc_id": "1120",
-                    "version_module_id": "90",
+                    "tc_id": "1121",
+                    "version_module_id": "93",
                     "tc_name": "wgeg",
                     "tc_description": "",
                     "tc_website_url": "https://demoqa.com",
@@ -84,39 +84,15 @@
                     "created_at": "2025-12-25 00:06:43",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/15/38/90/testcases/wgeg.java"
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/15/38/93/testcases/wgeg.java"
                 }
             ],
             "abo_version_proc": [],
-            "abo_vm_test_case_manual": [
-                {
-                    "tc_id": "25",
-                    "test_case_id": "0",
-                    "jira_id": "0",
-                    "version_module_id": "90",
-                    "tc_name": "Testsds",
-                    "thread_id": null,
-                    "tc_description": "",
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "updated_at": "2026-01-08 00:27:33",
-                    "created_at": "2026-01-08 00:26:31",
-                    "figma_id": "0",
-                    "abo_vm_test_case_manual_steps": [
-                        {
-                            "step_id": "166",
-                            "tc_id": "25",
-                            "step_order": "1",
-                            "step_action": "wfdf",
-                            "created_at": "2026-01-08 00:27:33",
-                            "updated_at": "2026-01-08 00:27:33"
-                        }
-                    ]
-                }
-            ],
+            "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [
                 {
-                    "na_id": "26",
-                    "version_module_id": "90",
+                    "na_id": "27",
+                    "version_module_id": "93",
                     "na_name": "CheckResponse",
                     "na_description": "",
                     "cm_step_list": "19,20,21",
@@ -126,49 +102,49 @@
             ],
             "abo_update": [
                 {
-                    "id": "411",
+                    "id": "421",
                     "user_id": "1",
                     "app_id": "15",
                     "version_id": "38",
-                    "version_module_id": "90",
+                    "version_module_id": "93",
                     "description": "",
                     "action_process": "add_version_module"
                 },
                 {
-                    "id": "412",
+                    "id": "422",
                     "user_id": "1",
                     "app_id": "15",
                     "version_id": "38",
-                    "version_module_id": "90",
+                    "version_module_id": "93",
                     "description": "",
                     "action_process": "delete_test_function"
                 },
                 {
-                    "id": "413",
+                    "id": "423",
                     "user_id": "1",
                     "app_id": "15",
                     "version_id": "38",
-                    "version_module_id": "90",
+                    "version_module_id": "93",
                     "description": "",
                     "action_process": "add_test_case"
                 }
             ],
             "abo_version_pages": [
                 {
-                    "version_page_id": "384",
-                    "version_module_id": "90",
-                    "cm_resource": "9071,9072",
+                    "version_page_id": "390",
+                    "version_module_id": "93",
+                    "cm_resource": "9094,9095",
                     "page_name": "Home",
-                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/main_384.png",
-                    "git_restore_page_id": "378",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/main_390.png",
+                    "git_restore_page_id": "384",
                     "created": "2025-12-24 03:27:08",
                     "updated": "2025-12-24 03:27:08",
                     "abo_version_maps": [
                         {
-                            "maps_id": "9071",
-                            "version_page_id": "384",
+                            "maps_id": "9094",
+                            "version_page_id": "390",
                             "page_name": "Home",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_menstshirt028",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -198,13 +174,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9071.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9094.png"
                         },
                         {
-                            "maps_id": "9072",
-                            "version_page_id": "384",
+                            "maps_id": "9095",
+                            "version_page_id": "390",
                             "page_name": "Home",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_mensouterw576",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -234,25 +210,25 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9072.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9095.png"
                         }
                     ]
                 },
                 {
-                    "version_page_id": "385",
-                    "version_module_id": "90",
-                    "cm_resource": "9073",
+                    "version_page_id": "391",
+                    "version_module_id": "93",
+                    "cm_resource": "9096",
                     "page_name": "Mens Tshirt",
-                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/main_385.png",
-                    "git_restore_page_id": "379",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/main_391.png",
+                    "git_restore_page_id": "385",
                     "created": "2025-12-24 03:27:08",
                     "updated": "2025-12-24 03:27:08",
                     "abo_version_maps": [
                         {
-                            "maps_id": "9073",
-                            "version_page_id": "385",
+                            "maps_id": "9096",
+                            "version_page_id": "391",
                             "page_name": "Mens Tshirt",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_img161",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -282,25 +258,25 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9073.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9096.png"
                         }
                     ]
                 },
                 {
-                    "version_page_id": "386",
-                    "version_module_id": "90",
-                    "cm_resource": "9074",
+                    "version_page_id": "392",
+                    "version_module_id": "93",
+                    "cm_resource": "9097",
                     "page_name": "Mens Tshirt2",
-                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/main_386.png",
-                    "git_restore_page_id": "380",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/main_392.png",
+                    "git_restore_page_id": "386",
                     "created": "2025-12-24 03:27:08",
                     "updated": "2025-12-24 03:27:08",
                     "abo_version_maps": [
                         {
-                            "maps_id": "9074",
-                            "version_page_id": "386",
+                            "maps_id": "9097",
+                            "version_page_id": "392",
                             "page_name": "Mens Tshirt2",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_triblendvn874",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -330,25 +306,25 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9074.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9097.png"
                         }
                     ]
                 },
                 {
-                    "version_page_id": "387",
-                    "version_module_id": "90",
-                    "cm_resource": "9075,9076,9077,9078",
+                    "version_page_id": "393",
+                    "version_module_id": "93",
+                    "cm_resource": "9098,9099,9100,9101",
                     "page_name": "Product page",
-                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/main_387.png",
-                    "git_restore_page_id": "381",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/main_393.png",
+                    "git_restore_page_id": "387",
                     "created": "2025-12-24 03:27:08",
                     "updated": "2025-12-24 03:27:08",
                     "abo_version_maps": [
                         {
-                            "maps_id": "9075",
-                            "version_page_id": "387",
+                            "maps_id": "9098",
+                            "version_page_id": "393",
                             "page_name": "Product page",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_addtocart031",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -378,13 +354,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9075.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9098.png"
                         },
                         {
-                            "maps_id": "9076",
-                            "version_page_id": "387",
+                            "maps_id": "9099",
+                            "version_page_id": "393",
                             "page_name": "Product page",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_xssmlxl698",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -414,13 +390,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9076.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9099.png"
                         },
                         {
-                            "maps_id": "9077",
-                            "version_page_id": "387",
+                            "maps_id": "9100",
+                            "version_page_id": "393",
                             "page_name": "Product page",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_select899",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -450,13 +426,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9077.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9100.png"
                         },
                         {
-                            "maps_id": "9078",
-                            "version_page_id": "387",
+                            "maps_id": "9101",
+                            "version_page_id": "393",
                             "page_name": "Product page",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_checkout551",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -486,25 +462,25 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9078.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9101.png"
                         }
                     ]
                 },
                 {
-                    "version_page_id": "388",
-                    "version_module_id": "90",
-                    "cm_resource": "9079,9080,9081,9082,9083,9084,9085,9086,9087,9088,9089,9090",
+                    "version_page_id": "394",
+                    "version_module_id": "93",
+                    "cm_resource": "9102,9103,9104,9105,9106,9107,9108,9109,9110,9111,9112,9113",
                     "page_name": "Checkout",
-                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/main_388.png",
-                    "git_restore_page_id": "382",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/main_394.png",
+                    "git_restore_page_id": "388",
                     "created": "2025-12-24 03:27:08",
                     "updated": "2025-12-24 03:27:08",
                     "abo_version_maps": [
                         {
-                            "maps_id": "9079",
-                            "version_page_id": "388",
+                            "maps_id": "9102",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_checkout719",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -534,13 +510,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9079.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9102.png"
                         },
                         {
-                            "maps_id": "9080",
-                            "version_page_id": "388",
+                            "maps_id": "9103",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_email910",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -570,13 +546,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9080.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9103.png"
                         },
                         {
-                            "maps_id": "9081",
-                            "version_page_id": "388",
+                            "maps_id": "9104",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_phonenumbe689",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -606,13 +582,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9081.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9104.png"
                         },
                         {
-                            "maps_id": "9082",
-                            "version_page_id": "388",
+                            "maps_id": "9105",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_address565",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -642,13 +618,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9082.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9105.png"
                         },
                         {
-                            "maps_id": "9083",
-                            "version_page_id": "388",
+                            "maps_id": "9106",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_city300",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -678,13 +654,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9083.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9106.png"
                         },
                         {
-                            "maps_id": "9084",
-                            "version_page_id": "388",
+                            "maps_id": "9107",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_stateprovi773",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -714,13 +690,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9084.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9107.png"
                         },
                         {
-                            "maps_id": "9085",
-                            "version_page_id": "388",
+                            "maps_id": "9108",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_zippostalc150",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -750,13 +726,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9085.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9108.png"
                         },
                         {
-                            "maps_id": "9086",
-                            "version_page_id": "388",
+                            "maps_id": "9109",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_cardholder391",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -786,13 +762,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9086.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9109.png"
                         },
                         {
-                            "maps_id": "9087",
-                            "version_page_id": "388",
+                            "maps_id": "9110",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_cardnumber884",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -822,22 +798,22 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9087.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9110.png"
                         },
                         {
-                            "maps_id": "9088",
-                            "version_page_id": "388",
+                            "maps_id": "9111",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_cvv415",
-                            "element_display_name": "cvv415",
+                            "element_display_name": null,
                             "element_image_url": null,
-                            "element_path_rid": "div:nth-child(2) > iron-pages:nth-child(1) > div:nth-child(1) > iron-form:nth-child(1) > form:nth-child(1) > div:nth-child(3) > section:nth-child(2) > div:nth-child(4) > shop-input:nth-child(3) > input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                            "element_path_rid": " div:nth-child(2) > iron-pages:nth-child(1) > div:nth-child(1) > iron-form:nth-child(1) > form:nth-child(1) > div:nth-child(3) > section:nth-child(2) > div:nth-child(4) > shop-input:nth-child(3) > input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
                             "autoheal_elements": "[{\"locators\":\"id\",\"locators_val\":\"ccCVVTGWEBCOMMA0\",\"locator_id\":\"7\",\"d_h\":34,\"d_w\":131,\"d_x\":991.15625,\"d_y\":431.921875,\"suggest_name\":\"cvv415\"},{\"locators\":\"CSS selector\",\"locators_val\":\" div:nth-child(2) > iron-pages:nth-child(1) > div:nth-child(1) > iron-form:nth-child(1) > form:nth-child(1) > div:nth-child(3) > section:nth-child(2) > div:nth-child(4) > shop-input:nth-child(3) > input:nth-child(1)\",\"locator_id\":\"9\",\"d_h\":34,\"d_w\":131,\"d_x\":991.15625,\"d_y\":431.921875,\"suggest_name\":\"cvv415\"},{\"locators\":\"CSS selector\",\"locators_val\":\"input#ccCVVTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":34,\"d_w\":131,\"d_x\":991.15625,\"d_y\":431.921875,\"suggest_name\":\"cvv415\"},{\"locators\":\"Tag\",\"locators_val\":\"input\",\"locator_id\":\"8\",\"d_h\":34,\"d_w\":131,\"d_x\":991.15625,\"d_y\":431.921875,\"suggest_name\":\"cvv415\"}]",
                             "correct_autoheal_data": null,
                             "sibling_selector": "{\"next_sibling\":{\"tag\":\"shop-md-decorator\",\"tg_attributes\":{\"error-message\":\"Invalid CVV\",\"aria-hidden\":\"true\"}},\"current_element_attrs\":{\"tag\":\"input\",\"tg_attributes\":{\"type\":\"tel\",\"id\":\"ccCVV\",\"name\":\"ccCVV\",\"pattern\":\"\\\\d{3,4}\",\"placeholder\":\"CVV\",\"required\":\"\",\"autocomplete\":\"cc-csc\",\"style\":\"box-shadow: none !important; outline: none !important;\"}}}",
                             "tg_text": "",
-                            "iframe_and_shadow_root_data": "[\n  {\n    \"is_secure_field\": false,\n    \"is_extension\": true,\n    \"element_list\": [\n      {\n        \"ele_id\": 2,\n        \"value\": \"ele_shop999\",\n        \"element_display_name\": \"SHOP\",\n        \"elementTag\": \"shop-appTGWEBCOMMA0\",\n        \"display_name\": \"shop999!@CheckoutSHOP!@\",\n        \"page_name\": \"CheckoutSHOP\",\n        \"element_image\": \"\",\n        \"autoheal_elements\": \"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"//shop-app[@page='checkout']\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"html > body > shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"//shop-app\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"}]\",\n        \"data\": {\n          \"element_name\": \"shop999\",\n          \"script_type\": 1,\n          \"platform\": 3,\n          \"typeofelement\": \"3\",\n          \"value\": [\n            \"//shop-app[@page='checkout']\"\n          ],\n          \"temp_element_id\": 0,\n          \"pagenameis\": \"CheckoutSHOP\",\n          \"d_h\": 1055,\n          \"d_w\": 1345,\n          \"d_x\": 0,\n          \"d_y\": 0,\n          \"radious\": 0,\n          \"version_module_id\": 0,\n          \"autoheal_elements\": [\n            {\n              \"locators\": \"CSS selector\",\n              \"locators_val\": \"shop-app\",\n              \"locator_id\": \"9\",\n              \"d_h\": 1055,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop999\"\n            },\n            {\n              \"locators\": \"Xpath\",\n              \"locators_val\": \"//shop-app[@page='checkout']\",\n              \"locator_id\": \"3\",\n              \"d_h\": 1055,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop999\"\n            },\n            {\n              \"locators\": \"CSS selector\",\n              \"locators_val\": \"shop-app\",\n              \"locator_id\": \"9\",\n              \"d_h\": 1055,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop999\"\n            },\n            {\n              \"locators\": \"CSS selector\",\n              \"locators_val\": \"html > body > shop-appTGWEBCOMMA0\",\n              \"locator_id\": \"9\",\n              \"d_h\": 1055,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop999\"\n            },\n            {\n              \"locators\": \"Xpath\",\n              \"locators_val\": \"//shop-app\",\n              \"locator_id\": \"3\",\n              \"d_h\": 1055,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop999\"\n            },\n            {\n              \"locators\": \"Tag\",\n              \"locators_val\": \"shop-appTGWEBCOMMA0\",\n              \"locator_id\": \"8\",\n              \"d_h\": 1055,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop999\"\n            }\n          ]\n        }\n      }\n    ],\n    \"element_type\": \"shadow_root\"\n  },\n  {\n    \"is_secure_field\": false,\n    \"is_extension\": true,\n    \"element_list\": [\n      {\n        \"ele_id\": 2,\n        \"value\": \"ele_checkoutsp104\",\n        \"elementTag\": \"shop-checkout\",\n        \"element_display_name\": \"ShadowElement\",\n        \"display_name\": \"checkoutsp104!@CheckoutSHOP!@\",\n        \"page_name\": \"CheckoutSHOP\",\n        \"element_image\": \"\",\n        \"autoheal_elements\": \"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\" iron-pages:nth-child(10) > shop-checkout:nth-child(5)\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":780,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"checkoutsp104\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\" iron-pages:nth-child(10) > shop-checkout:nth-child(5)\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":780,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"checkoutsp104\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"iron-pages > shop-checkoutTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":780,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"checkoutsp104\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-checkout\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":780,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"checkoutsp104\\\"},{\\\"locators\\\":\\\"class\\\",\\\"locators_val\\\":\\\"iron-selectedTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"6\\\",\\\"d_h\\\":780,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"checkoutsp104\\\"}]\",\n        \"data\": {\n          \"element_name\": \"checkoutsp104\",\n          \"script_type\": 1,\n          \"platform\": 3,\n          \"typeofelement\": \"9\",\n          \"value\": [\n            \" iron-pages:nth-child(10) > shop-checkout:nth-child(5)\"\n          ],\n          \"temp_element_id\": 0,\n          \"pagenameis\": \"CheckoutSHOP\",\n          \"d_h\": 780,\n          \"d_w\": 1345,\n          \"d_x\": 0,\n          \"d_y\": 130,\n          \"radious\": 0,\n          \"version_module_id\": 0,\n          \"autoheal_elements\": [\n            {\n              \"locators\": \"CSS selector\",\n              \"locators_val\": \" iron-pages:nth-child(10) > shop-checkout:nth-child(5)\",\n              \"locator_id\": \"9\",\n              \"d_h\": 780,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 130,\n              \"suggest_name\": \"checkoutsp104\"\n            },\n            {\n              \"locators\": \"CSS selector\",\n              \"locators_val\": \" iron-pages:nth-child(10) > shop-checkout:nth-child(5)\",\n              \"locator_id\": \"9\",\n              \"d_h\": 780,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 130,\n              \"suggest_name\": \"checkoutsp104\"\n            },\n            {\n              \"locators\": \"CSS selector\",\n              \"locators_val\": \"iron-pages > shop-checkoutTGWEBCOMMA0\",\n              \"locator_id\": \"9\",\n              \"d_h\": 780,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 130,\n              \"suggest_name\": \"checkoutsp104\"\n            },\n            {\n              \"locators\": \"Tag\",\n              \"locators_val\": \"shop-checkout\",\n              \"locator_id\": \"8\",\n              \"d_h\": 780,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 130,\n              \"suggest_name\": \"checkoutsp104\"\n            },\n            {\n              \"locators\": \"class\",\n              \"locators_val\": \"iron-selectedTGWEBCOMMA0\",\n              \"locator_id\": \"6\",\n              \"d_h\": 780,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 130,\n              \"suggest_name\": \"checkoutsp104\"\n            }\n          ]\n        }\n      }\n    ],\n    \"element_type\": \"shadow_root\"\n  }\n]",
+                            "iframe_and_shadow_root_data": "[{\"is_secure_field\":false,\"is_extension\":true,\"element_list\":[{\"ele_id\":2,\"value\":\"ele_shop999\",\"element_display_name\":\"SHOP\",\"elementTag\":\"shop-appTGWEBCOMMA0\",\"display_name\":\"shop999!@CheckoutSHOP!@\",\"page_name\":\"CheckoutSHOP\",\"element_image\":\"\",\"autoheal_elements\":\"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app[@page='checkout']\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"html > body > shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":1055,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop999\\\"}]\",\"data\":{\"element_name\":\"shop999\",\"script_type\":1,\"platform\":3,\"typeofelement\":\"3\",\"value\":[\"\\/\\/shop-app[@page='checkout']\"],\"temp_element_id\":0,\"pagenameis\":\"CheckoutSHOP\",\"d_h\":1055,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"radious\":0,\"version_module_id\":0,\"autoheal_elements\":[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1055,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop999\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/shop-app[@page='checkout']\",\"locator_id\":\"3\",\"d_h\":1055,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop999\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1055,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop999\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1055,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop999\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/shop-app\",\"locator_id\":\"3\",\"d_h\":1055,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop999\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1055,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop999\"}]}}],\"element_type\":\"shadow_root\"},{\"is_secure_field\":false,\"is_extension\":true,\"element_list\":[{\"ele_id\":2,\"value\":\"ele_checkoutsp104\",\"elementTag\":\"shop-checkout\",\"element_display_name\":\"ShadowElement\",\"display_name\":\"checkoutsp104!@CheckoutSHOP!@\",\"page_name\":\"CheckoutSHOP\",\"element_image\":\"\",\"autoheal_elements\":\"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\" iron-pages:nth-child(10) > shop-checkout:nth-child(5)\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":780,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"checkoutsp104\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\" iron-pages:nth-child(10) > shop-checkout:nth-child(5)\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":780,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"checkoutsp104\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"iron-pages > shop-checkoutTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":780,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"checkoutsp104\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-checkout\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":780,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"checkoutsp104\\\"},{\\\"locators\\\":\\\"class\\\",\\\"locators_val\\\":\\\"iron-selectedTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"6\\\",\\\"d_h\\\":780,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":130,\\\"suggest_name\\\":\\\"checkoutsp104\\\"}]\",\"data\":{\"element_name\":\"checkoutsp104\",\"script_type\":1,\"platform\":3,\"typeofelement\":\"9\",\"value\":[\" iron-pages:nth-child(10) > shop-checkout:nth-child(5)\"],\"temp_element_id\":0,\"pagenameis\":\"CheckoutSHOP\",\"d_h\":780,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"radious\":0,\"version_module_id\":0,\"autoheal_elements\":[{\"locators\":\"CSS selector\",\"locators_val\":\" iron-pages:nth-child(10) > shop-checkout:nth-child(5)\",\"locator_id\":\"9\",\"d_h\":780,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"suggest_name\":\"checkoutsp104\"},{\"locators\":\"CSS selector\",\"locators_val\":\" iron-pages:nth-child(10) > shop-checkout:nth-child(5)\",\"locator_id\":\"9\",\"d_h\":780,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"suggest_name\":\"checkoutsp104\"},{\"locators\":\"CSS selector\",\"locators_val\":\"iron-pages > shop-checkoutTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":780,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"suggest_name\":\"checkoutsp104\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-checkout\",\"locator_id\":\"8\",\"d_h\":780,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"suggest_name\":\"checkoutsp104\"},{\"locators\":\"class\",\"locators_val\":\"iron-selectedTGWEBCOMMA0\",\"locator_id\":\"6\",\"d_h\":780,\"d_w\":1345,\"d_x\":0,\"d_y\":130,\"suggest_name\":\"checkoutsp104\"}]}}],\"element_type\":\"shadow_root\"}]",
                             "is_iframe_and_shadow_root": "false",
                             "only_iframe_data": "false",
                             "only_shadow_root_data": "false",
@@ -858,13 +834,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9088.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9111.png"
                         },
                         {
-                            "maps_id": "9089",
-                            "version_page_id": "388",
+                            "maps_id": "9112",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_select872",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -894,13 +870,13 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9089.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9112.png"
                         },
                         {
-                            "maps_id": "9090",
-                            "version_page_id": "388",
+                            "maps_id": "9113",
+                            "version_page_id": "394",
                             "page_name": "Checkout",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_buttonplac996",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -930,25 +906,25 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9090.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9113.png"
                         }
                     ]
                 },
                 {
-                    "version_page_id": "389",
-                    "version_module_id": "90",
-                    "cm_resource": "9091,9093",
+                    "version_page_id": "395",
+                    "version_module_id": "93",
+                    "cm_resource": "9114",
                     "page_name": "Finish",
-                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/main_389.png",
-                    "git_restore_page_id": "383",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/main_395.png",
+                    "git_restore_page_id": "389",
                     "created": "2025-12-24 03:27:08",
                     "updated": "2025-12-24 03:27:08",
                     "abo_version_maps": [
                         {
-                            "maps_id": "9091",
-                            "version_page_id": "389",
+                            "maps_id": "9114",
+                            "version_page_id": "395",
                             "page_name": "Finish",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_finish813",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -978,67 +954,31 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9091.png"
-                        },
-                        {
-                            "maps_id": "9093",
-                            "version_page_id": "389",
-                            "page_name": "Finish",
-                            "version_module_id": "90",
-                            "element_name": "ele_menstshirt027",
-                            "element_display_name": "menstshirt027",
-                            "element_image_url": null,
-                            "element_path_rid": "app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
-                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#tabContainer > shop-tabs > shop-tab:nth-of-type(3) > aTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"PartialLinkText\",\"locators_val\":\"Men's T-ShirTGWEBCOMMA0\",\"locator_id\":\"5\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"LinkText\",\"locators_val\":\"Men's T-ShirtsTGWEBCOMMA0\",\"locator_id\":\"4\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"Tag\",\"locators_val\":\"a\",\"locator_id\":\"8\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"}]",
-                            "correct_autoheal_data": "{\"autoheal_elements\":\"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\" app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":38,\\\"d_w\\\":92,\\\"d_x\\\":700.453125,\\\"d_y\\\":78.25,\\\"suggest_name\\\":\\\"menstshirt027\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"div#tabContainer > shop-tabs > shop-tab:nth-of-type(3) > aTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":38,\\\"d_w\\\":92,\\\"d_x\\\":700.453125,\\\"d_y\\\":78.25,\\\"suggest_name\\\":\\\"menstshirt027\\\"},{\\\"locators\\\":\\\"PartialLinkText\\\",\\\"locators_val\\\":\\\"Men's T-ShirTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"5\\\",\\\"d_h\\\":38,\\\"d_w\\\":92,\\\"d_x\\\":700.453125,\\\"d_y\\\":78.25,\\\"suggest_name\\\":\\\"menstshirt027\\\"},{\\\"locators\\\":\\\"LinkText\\\",\\\"locators_val\\\":\\\"Men's T-ShirtsTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"4\\\",\\\"d_h\\\":38,\\\"d_w\\\":92,\\\"d_x\\\":700.453125,\\\"d_y\\\":78.25,\\\"suggest_name\\\":\\\"menstshirt027\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"a\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":38,\\\"d_w\\\":92,\\\"d_x\\\":700.453125,\\\"d_y\\\":78.25,\\\"suggest_name\\\":\\\"menstshirt027\\\"}]\"}",
-                            "sibling_selector": "{\"current_element_attrs\":{\"tag\":\"a\",\"tg_attributes\":{\"href\":\"\\/list\\/mens_tshirts\"}}}",
-                            "tg_text": "Men's T-Shirts",
-                            "iframe_and_shadow_root_data": "[\n    {\n        \"is_secure_field\": false,\n        \"is_extension\": true,\n        \"element_list\": [\n            {\n                \"ele_id\": 2,\n                \"value\": \"ele_shop283\",\n                \"element_display_name\": \"SHOP\",\n                \"elementTag\": \"shop-appTGWEBCOMMA0\",\n                \"display_name\": \"shop283!@HomeSHOP!@\",\n                \"page_name\": \"HomeSHOP\",\n                \"element_image\": \"\",\n                \"autoheal_elements\": \"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app[@page='home']\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"html > body > shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"}]\",\n                \"data\": {\n                    \"element_name\": \"shop283\",\n                    \"script_type\": 1,\n                    \"platform\": 3,\n                    \"typeofelement\": \"3\",\n                    \"value\": [\n                        \"\\/\\/shop-app[@page='home']\"\n                    ],\n                    \"temp_element_id\": 0,\n                    \"pagenameis\": \"HomeSHOP\",\n                    \"d_h\": 1661,\n                    \"d_w\": 1345,\n                    \"d_x\": 0,\n                    \"d_y\": 0,\n                    \"radious\": 0,\n                    \"version_module_id\": 0,\n                    \"autoheal_elements\": [\n                        {\n                            \"locators\": \"CSS selector\",\n                            \"locators_val\": \"shop-app\",\n                            \"locator_id\": \"9\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        },\n                        {\n                            \"locators\": \"Xpath\",\n                            \"locators_val\": \"\\/\\/shop-app[@page='home']\",\n                            \"locator_id\": \"3\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        },\n                        {\n                            \"locators\": \"CSS selector\",\n                            \"locators_val\": \"shop-app\",\n                            \"locator_id\": \"9\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        },\n                        {\n                            \"locators\": \"CSS selector\",\n                            \"locators_val\": \"html > body > shop-appTGWEBCOMMA0\",\n                            \"locator_id\": \"9\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        },\n                        {\n                            \"locators\": \"Xpath\",\n                            \"locators_val\": \"\\/\\/shop-app\",\n                            \"locator_id\": \"3\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        },\n                        {\n                            \"locators\": \"Tag\",\n                            \"locators_val\": \"shop-appTGWEBCOMMA0\",\n                            \"locator_id\": \"8\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        }\n                    ]\n                }\n            }\n        ],\n        \"element_type\": \"shadow_root\"\n    }\n]",
-                            "is_iframe_and_shadow_root": "false",
-                            "only_iframe_data": "false",
-                            "only_shadow_root_data": "true",
-                            "shadow_data": "{\"is_shadow\":true,\"allShadowHost\":[\"shop-app\"],\"tg_css\":[\" app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)\",\"shop-app\"]}",
-                            "web_context_element": "0",
-                            "element_path_rid_ios": "",
-                            "element_xcui_element": "",
-                            "element_displayname": "&amp;quot;undefined&amp;quot;",
-                            "element_index": "",
-                            "element_parent_element": "",
-                            "element_path_rid_type": "9",
-                            "element_path_rid_ios_type": "",
-                            "d_x": "700.453125",
-                            "d_y": "78.25",
-                            "d_w": "92",
-                            "d_h": "38",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
-                            "is_deleted": "0000-00-00 00:00:00",
-                            "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9093.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9114.png"
                         }
                     ]
                 },
                 {
                     "version_page_id": 0,
-                    "version_module_id": "90",
-                    "cm_resource": "9092,9093",
+                    "version_module_id": "93",
+                    "cm_resource": "9115,9116",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
                     "abo_version_maps": [
                         {
-                            "maps_id": "9092",
+                            "maps_id": "9115",
                             "version_page_id": "0",
                             "page_name": "",
-                            "version_module_id": "90",
+                            "version_module_id": "93",
                             "element_name": "ele_shop455",
-                            "element_display_name": "shop455",
+                            "element_display_name": null,
                             "element_image_url": null,
-                            "element_path_rid": "app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                            "element_path_rid": " app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
                             "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\" app-header:nth-child(8) > app-toolbar:nth-child(1) > div:nth-child(2) > a:nth-child(1)\",\"locator_id\":\"9\",\"d_h\":24,\"d_w\":65,\"d_x\":640.21875,\"d_y\":22,\"suggest_name\":\"shop455\"},{\"locators\":\"CSS selector\",\"locators_val\":\"app-header#header > app-toolbar > div:nth-of-type(2) > aTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":24,\"d_w\":65,\"d_x\":640.21875,\"d_y\":22,\"suggest_name\":\"shop455\"},{\"locators\":\"PartialLinkText\",\"locators_val\":\"SHOPTGWEBCOMMA0\",\"locator_id\":\"5\",\"d_h\":24,\"d_w\":65,\"d_x\":640.21875,\"d_y\":22,\"suggest_name\":\"shop455\"},{\"locators\":\"LinkText\",\"locators_val\":\"SHOPTGWEBCOMMA0\",\"locator_id\":\"4\",\"d_h\":24,\"d_w\":65,\"d_x\":640.21875,\"d_y\":22,\"suggest_name\":\"shop455\"},{\"locators\":\"Tag\",\"locators_val\":\"a\",\"locator_id\":\"8\",\"d_h\":24,\"d_w\":65,\"d_x\":640.21875,\"d_y\":22,\"suggest_name\":\"shop455\"}]",
                             "correct_autoheal_data": null,
                             "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"class\":\"logo\",\"main-title\":\"\"}},\"current_element_attrs\":{\"tag\":\"a\",\"tg_attributes\":{\"href\":\"\\/\",\"aria-label\":\"SHOP Home\"}}}",
                             "tg_text": "SHOP",
-                            "iframe_and_shadow_root_data": "[\n  {\n    \"is_secure_field\": false,\n    \"is_extension\": true,\n    \"element_list\": [\n      {\n        \"ele_id\": 2,\n        \"value\": \"ele_shop147\",\n        \"element_display_name\": \"SHOP\",\n        \"elementTag\": \"shop-appTGWEBCOMMA0\",\n        \"display_name\": \"shop147!@HomeSHOP!@\",\n        \"page_name\": \"HomeSHOP\",\n        \"element_image\": \"\",\n        \"autoheal_elements\": \"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"//shop-app[@page='home']\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"html > body > shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"//shop-app\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"}]\",\n        \"data\": {\n          \"element_name\": \"shop147\",\n          \"script_type\": 1,\n          \"platform\": 3,\n          \"typeofelement\": \"3\",\n          \"value\": [\n            \"//shop-app[@page='home']\"\n          ],\n          \"temp_element_id\": 0,\n          \"pagenameis\": \"HomeSHOP\",\n          \"d_h\": 1661,\n          \"d_w\": 1345,\n          \"d_x\": 0,\n          \"d_y\": 0,\n          \"radious\": 0,\n          \"version_module_id\": 0,\n          \"autoheal_elements\": [\n            {\n              \"locators\": \"CSS selector\",\n              \"locators_val\": \"shop-app\",\n              \"locator_id\": \"9\",\n              \"d_h\": 1661,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop147\"\n            },\n            {\n              \"locators\": \"Xpath\",\n              \"locators_val\": \"//shop-app[@page='home']\",\n              \"locator_id\": \"3\",\n              \"d_h\": 1661,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop147\"\n            },\n            {\n              \"locators\": \"CSS selector\",\n              \"locators_val\": \"shop-app\",\n              \"locator_id\": \"9\",\n              \"d_h\": 1661,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop147\"\n            },\n            {\n              \"locators\": \"CSS selector\",\n              \"locators_val\": \"html > body > shop-appTGWEBCOMMA0\",\n              \"locator_id\": \"9\",\n              \"d_h\": 1661,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop147\"\n            },\n            {\n              \"locators\": \"Xpath\",\n              \"locators_val\": \"//shop-app\",\n              \"locator_id\": \"3\",\n              \"d_h\": 1661,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop147\"\n            },\n            {\n              \"locators\": \"Tag\",\n              \"locators_val\": \"shop-appTGWEBCOMMA0\",\n              \"locator_id\": \"8\",\n              \"d_h\": 1661,\n              \"d_w\": 1345,\n              \"d_x\": 0,\n              \"d_y\": 0,\n              \"suggest_name\": \"shop147\"\n            }\n          ]\n        }\n      }\n    ],\n    \"element_type\": \"shadow_root\"\n  }\n]",
+                            "iframe_and_shadow_root_data": "[{\"is_secure_field\":false,\"is_extension\":true,\"element_list\":[{\"ele_id\":2,\"value\":\"ele_shop147\",\"element_display_name\":\"SHOP\",\"elementTag\":\"shop-appTGWEBCOMMA0\",\"display_name\":\"shop147!@HomeSHOP!@\",\"page_name\":\"HomeSHOP\",\"element_image\":\"\",\"autoheal_elements\":\"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app[@page='home']\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"html > body > shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop147\\\"}]\",\"data\":{\"element_name\":\"shop147\",\"script_type\":1,\"platform\":3,\"typeofelement\":\"3\",\"value\":[\"\\/\\/shop-app[@page='home']\"],\"temp_element_id\":0,\"pagenameis\":\"HomeSHOP\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"radious\":0,\"version_module_id\":0,\"autoheal_elements\":[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/shop-app[@page='home']\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/shop-app\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop147\"}]}}],\"element_type\":\"shadow_root\"}]",
                             "is_iframe_and_shadow_root": "false",
                             "only_iframe_data": "false",
                             "only_shadow_root_data": "false",
@@ -1059,25 +999,25 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9092.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9115.png"
                         },
                         {
-                            "maps_id": "9093",
-                            "version_page_id": "389",
-                            "page_name": "Finish",
-                            "version_module_id": "90",
+                            "maps_id": "9116",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "93",
                             "element_name": "ele_menstshirt027",
-                            "element_display_name": "menstshirt027",
+                            "element_display_name": null,
                             "element_image_url": null,
-                            "element_path_rid": "app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
-                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#tabContainer > shop-tabs > shop-tab:nth-of-type(3) > aTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"PartialLinkText\",\"locators_val\":\"Men's T-ShirTGWEBCOMMA0\",\"locator_id\":\"5\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"LinkText\",\"locators_val\":\"Men's T-ShirtsTGWEBCOMMA0\",\"locator_id\":\"4\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"Tag\",\"locators_val\":\"a\",\"locator_id\":\"8\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"}]",
-                            "correct_autoheal_data": "{\"autoheal_elements\":\"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\" app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":38,\\\"d_w\\\":92,\\\"d_x\\\":700.453125,\\\"d_y\\\":78.25,\\\"suggest_name\\\":\\\"menstshirt027\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"div#tabContainer > shop-tabs > shop-tab:nth-of-type(3) > aTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":38,\\\"d_w\\\":92,\\\"d_x\\\":700.453125,\\\"d_y\\\":78.25,\\\"suggest_name\\\":\\\"menstshirt027\\\"},{\\\"locators\\\":\\\"PartialLinkText\\\",\\\"locators_val\\\":\\\"Men's T-ShirTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"5\\\",\\\"d_h\\\":38,\\\"d_w\\\":92,\\\"d_x\\\":700.453125,\\\"d_y\\\":78.25,\\\"suggest_name\\\":\\\"menstshirt027\\\"},{\\\"locators\\\":\\\"LinkText\\\",\\\"locators_val\\\":\\\"Men's T-ShirtsTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"4\\\",\\\"d_h\\\":38,\\\"d_w\\\":92,\\\"d_x\\\":700.453125,\\\"d_y\\\":78.25,\\\"suggest_name\\\":\\\"menstshirt027\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"a\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":38,\\\"d_w\\\":92,\\\"d_x\\\":700.453125,\\\"d_y\\\":78.25,\\\"suggest_name\\\":\\\"menstshirt027\\\"}]\"}",
+                            "element_path_rid": " app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\" app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#tabContainer > shop-tabs > shop-tab:nth-of-type(3) > aTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"PartialLinkText\",\"locators_val\":\"Men's T-ShirTGWEBCOMMA0\",\"locator_id\":\"5\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"LinkText\",\"locators_val\":\"Men's T-ShirtsTGWEBCOMMA0\",\"locator_id\":\"4\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"},{\"locators\":\"Tag\",\"locators_val\":\"a\",\"locator_id\":\"8\",\"d_h\":38,\"d_w\":92,\"d_x\":700.453125,\"d_y\":78.25,\"suggest_name\":\"menstshirt027\"}]",
+                            "correct_autoheal_data": null,
                             "sibling_selector": "{\"current_element_attrs\":{\"tag\":\"a\",\"tg_attributes\":{\"href\":\"\\/list\\/mens_tshirts\"}}}",
                             "tg_text": "Men's T-Shirts",
-                            "iframe_and_shadow_root_data": "[\n    {\n        \"is_secure_field\": false,\n        \"is_extension\": true,\n        \"element_list\": [\n            {\n                \"ele_id\": 2,\n                \"value\": \"ele_shop283\",\n                \"element_display_name\": \"SHOP\",\n                \"elementTag\": \"shop-appTGWEBCOMMA0\",\n                \"display_name\": \"shop283!@HomeSHOP!@\",\n                \"page_name\": \"HomeSHOP\",\n                \"element_image\": \"\",\n                \"autoheal_elements\": \"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app[@page='home']\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"html > body > shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"}]\",\n                \"data\": {\n                    \"element_name\": \"shop283\",\n                    \"script_type\": 1,\n                    \"platform\": 3,\n                    \"typeofelement\": \"3\",\n                    \"value\": [\n                        \"\\/\\/shop-app[@page='home']\"\n                    ],\n                    \"temp_element_id\": 0,\n                    \"pagenameis\": \"HomeSHOP\",\n                    \"d_h\": 1661,\n                    \"d_w\": 1345,\n                    \"d_x\": 0,\n                    \"d_y\": 0,\n                    \"radious\": 0,\n                    \"version_module_id\": 0,\n                    \"autoheal_elements\": [\n                        {\n                            \"locators\": \"CSS selector\",\n                            \"locators_val\": \"shop-app\",\n                            \"locator_id\": \"9\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        },\n                        {\n                            \"locators\": \"Xpath\",\n                            \"locators_val\": \"\\/\\/shop-app[@page='home']\",\n                            \"locator_id\": \"3\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        },\n                        {\n                            \"locators\": \"CSS selector\",\n                            \"locators_val\": \"shop-app\",\n                            \"locator_id\": \"9\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        },\n                        {\n                            \"locators\": \"CSS selector\",\n                            \"locators_val\": \"html > body > shop-appTGWEBCOMMA0\",\n                            \"locator_id\": \"9\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        },\n                        {\n                            \"locators\": \"Xpath\",\n                            \"locators_val\": \"\\/\\/shop-app\",\n                            \"locator_id\": \"3\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        },\n                        {\n                            \"locators\": \"Tag\",\n                            \"locators_val\": \"shop-appTGWEBCOMMA0\",\n                            \"locator_id\": \"8\",\n                            \"d_h\": 1661,\n                            \"d_w\": 1345,\n                            \"d_x\": 0,\n                            \"d_y\": 0,\n                            \"suggest_name\": \"shop283\"\n                        }\n                    ]\n                }\n            }\n        ],\n        \"element_type\": \"shadow_root\"\n    }\n]",
+                            "iframe_and_shadow_root_data": "[{\"is_secure_field\":false,\"is_extension\":true,\"element_list\":[{\"ele_id\":2,\"value\":\"ele_shop283\",\"element_display_name\":\"SHOP\",\"elementTag\":\"shop-appTGWEBCOMMA0\",\"display_name\":\"shop283!@HomeSHOP!@\",\"page_name\":\"HomeSHOP\",\"element_image\":\"\",\"autoheal_elements\":\"[{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app[@page='home']\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"shop-app\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"CSS selector\\\",\\\"locators_val\\\":\\\"html > body > shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"9\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"Xpath\\\",\\\"locators_val\\\":\\\"\\/\\/shop-app\\\",\\\"locator_id\\\":\\\"3\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"},{\\\"locators\\\":\\\"Tag\\\",\\\"locators_val\\\":\\\"shop-appTGWEBCOMMA0\\\",\\\"locator_id\\\":\\\"8\\\",\\\"d_h\\\":1661,\\\"d_w\\\":1345,\\\"d_x\\\":0,\\\"d_y\\\":0,\\\"suggest_name\\\":\\\"shop283\\\"}]\",\"data\":{\"element_name\":\"shop283\",\"script_type\":1,\"platform\":3,\"typeofelement\":\"3\",\"value\":[\"\\/\\/shop-app[@page='home']\"],\"temp_element_id\":0,\"pagenameis\":\"HomeSHOP\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"radious\":0,\"version_module_id\":0,\"autoheal_elements\":[{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/shop-app[@page='home']\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"CSS selector\",\"locators_val\":\"shop-app\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"CSS selector\",\"locators_val\":\"html > body > shop-appTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/shop-app\",\"locator_id\":\"3\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"},{\"locators\":\"Tag\",\"locators_val\":\"shop-appTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":1661,\"d_w\":1345,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"shop283\"}]}}],\"element_type\":\"shadow_root\"}]",
                             "is_iframe_and_shadow_root": "false",
                             "only_iframe_data": "false",
-                            "only_shadow_root_data": "true",
+                            "only_shadow_root_data": "false",
                             "shadow_data": "{\"is_shadow\":true,\"allShadowHost\":[\"shop-app\"],\"tg_css\":[\" app-header:nth-child(8) > div:nth-child(2) > shop-tabs:nth-child(1) > shop-tab:nth-child(3) > a:nth-child(1)\",\"shop-app\"]}",
                             "web_context_element": "0",
                             "element_path_rid_ios": "",
@@ -1095,7 +1035,7 @@
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "last_revert_data": null,
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/90/9093.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/93/9116.png"
                         }
                     ]
                 }
@@ -1104,7 +1044,7 @@
     ],
     "abo_version_capabilities": [
         {
-            "capabilities_id": "21",
+            "capabilities_id": "22",
             "version_id": "38",
             "capabilities_keyname": "browserName",
             "capabilities_keyvalue": "Chrome"
@@ -1115,7 +1055,7 @@
     "abo_external_jar": [],
     "abo_global_variable": [
         {
-            "variable_id": "96",
+            "variable_id": "99",
             "user_id": "1",
             "app_id": "15",
             "version_id": "38",
@@ -1126,7 +1066,7 @@
             "updated": "2025-12-24 03:09:13"
         },
         {
-            "variable_id": "97",
+            "variable_id": "100",
             "user_id": "1",
             "app_id": "15",
             "version_id": "38",
@@ -1137,7 +1077,7 @@
             "updated": "2025-12-24 03:09:13"
         },
         {
-            "variable_id": "98",
+            "variable_id": "101",
             "user_id": "1",
             "app_id": "15",
             "version_id": "38",

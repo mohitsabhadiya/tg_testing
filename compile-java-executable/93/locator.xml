@@ -6,14 +6,12 @@
     <element type="css">div#tabContainer &gt; shop-tabs &gt; shop-tab:nth-of-type(3) &gt; aTGWEBCOMMA0</element>
     <element type="linktext">Men's T-ShirtsTGWEBCOMMA0</element>
     <element type="tag">a</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9071.png</element>
   </locator>
   <locator name="ele_mensouterw576">
     <element type="css"> div:nth-child(2) &gt; h2:nth-child(2)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
     <element type="css"> div:nth-child(2) &gt; h2:nth-child(2)</element>
     <element type="css">div &gt; h2TGWEBCOMMA0</element>
     <element type="tag">h2</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9072.png</element>
   </locator>
   <locator name="ele_img161">
     <element type="css">img#imgTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
@@ -21,7 +19,6 @@
     <element type="css"> img:nth-child(2)</element>
     <element type="css">img#imgTGWEBCOMMA0</element>
     <element type="tag">img</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9073.png</element>
   </locator>
   <locator name="ele_triblendvn874">
     <element type="css"> div:nth-child(3)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
@@ -29,21 +26,18 @@
     <element type="css">divTGWEBCOMMA2</element>
     <element type="tag">div</element>
     <element type="class">titleTGWEBCOMMA0</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9074.png</element>
   </locator>
   <locator name="ele_addtocart031">
     <element type="css">div#content &gt; div &gt; shop-button &gt; buttonTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
     <element type="css"> div:nth-child(4) &gt; div:nth-child(2) &gt; shop-button:nth-child(5) &gt; button:nth-child(1)</element>
     <element type="css">div#content &gt; div &gt; shop-button &gt; buttonTGWEBCOMMA0</element>
     <element type="tag">button</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9075.png</element>
   </locator>
   <locator name="ele_xssmlxl698">
     <element type="id">sizeSelectTGWEBCOMMAIdTGWEBCOMMA0</element>
     <element type="css"> div:nth-child(4) &gt; div:nth-child(2) &gt; div:nth-child(3) &gt; shop-select:nth-child(1) &gt; select:nth-child(2)</element>
     <element type="css">select#sizeSelectTGWEBCOMMA0</element>
     <element type="tag">select</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9076.png</element>
   </locator>
   <locator name="ele_select899">
     <element type="css"> div:nth-child(4) &gt; div:nth-child(2) &gt; div:nth-child(3) &gt; shop-select:nth-child(2) &gt; select:nth-child(2)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
@@ -51,7 +45,6 @@
     <element type="css"> div:nth-child(4) &gt; div:nth-child(2) &gt; div:nth-child(3) &gt; shop-select:nth-child(2) &gt; select:nth-child(2)</element>
     <element type="css">select#quantitySelectTGWEBCOMMA0</element>
     <element type="tag">select</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9077.png</element>
   </locator>
   <locator name="ele_checkout551">
     <element type="linktext">CheckoutTGWEBCOMMALinkTextTGWEBCOMMA00</element>
@@ -59,28 +52,24 @@
     <element type="css">div:nth-of-type(2) &gt; shop-button:nth-of-type(2) &gt; aTGWEBCOMMA0</element>
     <element type="partiallinktext">CheckoTGWEBCOMMA0</element>
     <element type="tag">a</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9078.png</element>
   </locator>
   <locator name="ele_checkout719">
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; header:nth-child(2) &gt; h1:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; header:nth-child(2) &gt; h1:nth-child(1)</element>
     <element type="css">iron-form#checkoutForm &gt; form &gt; header &gt; h1TGWEBCOMMA0</element>
     <element type="tag">h1</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9079.png</element>
   </locator>
   <locator name="ele_email910">
     <element type="id">accountEmailTGWEBCOMMAIdTGWEBCOMMA0</element>
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(1) &gt; div:nth-child(2) &gt; shop-input:nth-child(1) &gt; input:nth-child(1)</element>
     <element type="css">input#accountEmailTGWEBCOMMA0</element>
     <element type="tag">input</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9080.png</element>
   </locator>
   <locator name="ele_phonenumbe689">
     <element type="id">accountPhoneTGWEBCOMMAIdTGWEBCOMMA0</element>
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(1) &gt; div:nth-child(3) &gt; shop-input:nth-child(1) &gt; input:nth-child(1)</element>
     <element type="css">input#accountPhoneTGWEBCOMMA0</element>
     <element type="tag">input</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9081.png</element>
   </locator>
   <locator name="ele_address565">
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(1) &gt; div:nth-child(5) &gt; shop-input:nth-child(1) &gt; input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
@@ -88,7 +77,6 @@
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(1) &gt; div:nth-child(5) &gt; shop-input:nth-child(1) &gt; input:nth-child(1)</element>
     <element type="css">input#shipAddressTGWEBCOMMA0</element>
     <element type="tag">input</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9082.png</element>
   </locator>
   <locator name="ele_city300">
     <element type="css">input#shipCityTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
@@ -96,7 +84,6 @@
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(1) &gt; div:nth-child(6) &gt; shop-input:nth-child(1) &gt; input:nth-child(1)</element>
     <element type="css">input#shipCityTGWEBCOMMA0</element>
     <element type="tag">input</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9083.png</element>
   </locator>
   <locator name="ele_stateprovi773">
     <element type="css">input#shipStateTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
@@ -104,7 +91,6 @@
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(1) &gt; div:nth-child(7) &gt; shop-input:nth-child(1) &gt; input:nth-child(1)</element>
     <element type="css">input#shipStateTGWEBCOMMA0</element>
     <element type="tag">input</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9084.png</element>
   </locator>
   <locator name="ele_zippostalc150">
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(1) &gt; div:nth-child(7) &gt; shop-input:nth-child(2) &gt; input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
@@ -112,7 +98,6 @@
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(1) &gt; div:nth-child(7) &gt; shop-input:nth-child(2) &gt; input:nth-child(1)</element>
     <element type="css">input#shipZipTGWEBCOMMA0</element>
     <element type="tag">input</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9085.png</element>
   </locator>
   <locator name="ele_cardholder391">
     <element type="css">input#ccNameTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
@@ -120,7 +105,6 @@
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(2) &gt; div:nth-child(2) &gt; shop-input:nth-child(1) &gt; input:nth-child(1)</element>
     <element type="css">input#ccNameTGWEBCOMMA0</element>
     <element type="tag">input</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9086.png</element>
   </locator>
   <locator name="ele_cardnumber884">
     <element type="css">input#ccNumberTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
@@ -128,15 +112,13 @@
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(2) &gt; div:nth-child(3) &gt; shop-input:nth-child(1) &gt; input:nth-child(1)</element>
     <element type="css">input#ccNumberTGWEBCOMMA0</element>
     <element type="tag">input</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9087.png</element>
   </locator>
   <locator name="ele_cvv415">
-    <element type="css">div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(2) &gt; div:nth-child(4) &gt; shop-input:nth-child(3) &gt; input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(2) &gt; div:nth-child(4) &gt; shop-input:nth-child(3) &gt; input:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
     <element type="id">ccCVVTGWEBCOMMA0</element>
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(2) &gt; div:nth-child(4) &gt; shop-input:nth-child(3) &gt; input:nth-child(1)</element>
     <element type="css">input#ccCVVTGWEBCOMMA0</element>
     <element type="tag">input</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9088.png</element>
   </locator>
   <locator name="ele_select872">
     <element type="css">select#ccExpYearTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
@@ -144,14 +126,12 @@
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(2) &gt; div:nth-child(4) &gt; shop-select:nth-child(2) &gt; select:nth-child(1)</element>
     <element type="css">select#ccExpYearTGWEBCOMMA0</element>
     <element type="tag">select</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9089.png</element>
   </locator>
   <locator name="ele_buttonplac996">
     <element type="css">shop-button#submitBox &gt; inputTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
     <element type="css"> div:nth-child(2) &gt; iron-pages:nth-child(1) &gt; div:nth-child(1) &gt; iron-form:nth-child(1) &gt; form:nth-child(1) &gt; div:nth-child(3) &gt; section:nth-child(2) &gt; shop-button:nth-child(10) &gt; input:nth-child(1)</element>
     <element type="css">shop-button#submitBox &gt; inputTGWEBCOMMA0</element>
     <element type="tag">input</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9090.png</element>
   </locator>
   <locator name="ele_finish813">
     <element type="linktext">FinishTGWEBCOMMALinkTextTGWEBCOMMA00</element>
@@ -159,16 +139,14 @@
     <element type="css">iron-pages#pages &gt; header &gt; shop-button &gt; aTGWEBCOMMA0</element>
     <element type="partiallinktext">FiniTGWEBCOMMA0</element>
     <element type="tag">a</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9091.png</element>
   </locator>
   <locator name="ele_shop455" is_shadow="true">
-    <element type="css">app-header:nth-child(8) &gt; app-toolbar:nth-child(1) &gt; div:nth-child(2) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css"> app-header:nth-child(8) &gt; app-toolbar:nth-child(1) &gt; div:nth-child(2) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
     <element type="css"> app-header:nth-child(8) &gt; app-toolbar:nth-child(1) &gt; div:nth-child(2) &gt; a:nth-child(1)</element>
     <element type="css">app-header#header &gt; app-toolbar &gt; div:nth-of-type(2) &gt; aTGWEBCOMMA0</element>
     <element type="partiallinktext">SHOPTGWEBCOMMA0</element>
     <element type="linktext">SHOPTGWEBCOMMA0</element>
     <element type="tag">a</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9092.png</element>
     <shadow-data>
       <shadow-host>
         <element type="css">shop-app</element>
@@ -180,13 +158,12 @@
     </shadow-data>
   </locator>
   <locator name="ele_menstshirt027" is_shadow="true">
-    <element type="css">app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
-    <element type="css">app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)</element>
+    <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css"> app-header:nth-child(8) &gt; div:nth-child(2) &gt; shop-tabs:nth-child(1) &gt; shop-tab:nth-child(3) &gt; a:nth-child(1)</element>
     <element type="css">div#tabContainer &gt; shop-tabs &gt; shop-tab:nth-of-type(3) &gt; aTGWEBCOMMA0</element>
     <element type="partiallinktext">Men's T-ShirTGWEBCOMMA0</element>
     <element type="linktext">Men's T-ShirtsTGWEBCOMMA0</element>
     <element type="tag">a</element>
-    <element type="image">http://192.168.88.234/s/ele-imgs/90/9093.png</element>
     <shadow-data>
       <shadow-host>
         <element type="css">shop-app</element>
