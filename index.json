@@ -8,7 +8,7 @@
         "app_id": "134",
         "version_name": "1.0",
         "version_description": "",
-        "cm_version_module": "1401",
+        "cm_version_module": "1402",
         "platform": "3",
         "ai_modal_id": "cotester_client_asvTrBocqmAYc9Avp9o5vgZu",
         "script_type": "3",
@@ -16,7 +16,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "539",
+        "git_restore_id": "540",
         "is_delete": "0"
     },
     "app_id": "134",
@@ -46,7 +46,7 @@
     },
     "abo_version_module": [
         {
-            "version_module_id": "1401",
+            "version_module_id": "1402",
             "version_id": "338",
             "parent_id": "0",
             "module_name": "TC1",
@@ -69,16 +69,40 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [
                 {
-                    "tc_id": "378",
+                    "tc_id": "379",
                     "test_case_id": "0",
                     "jira_id": "0",
-                    "version_module_id": "1401",
+                    "version_module_id": "1402",
                     "tc_name": "MTM1",
                     "thread_id": null,
                     "tc_description": "",
                     "is_deleted": "0000-00-00 00:00:00",
-                    "updated_at": "2026-01-08 16:25:25",
+                    "updated_at": "2026-01-08 16:25:41",
                     "created_at": "2026-01-08 16:25:25",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "59",
+                            "tc_id": "379",
+                            "step_order": "1",
+                            "step_action": "Hello CoTester",
+                            "created_at": "2026-01-08 16:25:41",
+                            "updated_at": "2026-01-08 16:25:41"
+                        }
+                    ],
+                    "cotester_chat_messages": []
+                },
+                {
+                    "tc_id": "380",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "version_module_id": "1402",
+                    "tc_name": "MTM2",
+                    "thread_id": null,
+                    "tc_description": "",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-01-08 16:25:50",
+                    "created_at": "2026-01-08 16:25:50",
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [],
                     "cotester_chat_messages": []
@@ -87,11 +111,11 @@
             "abo_vm_network_assert": [],
             "abo_update": [
                 {
-                    "id": "4101",
+                    "id": "4102",
                     "user_id": "1",
                     "app_id": "134",
                     "version_id": "338",
-                    "version_module_id": "1401",
+                    "version_module_id": "1402",
                     "description": "",
                     "action_process": "add_version_module"
                 }
@@ -100,7 +124,7 @@
             "abo_version_pages": [
                 {
                     "version_page_id": 0,
-                    "version_module_id": "1401",
+                    "version_module_id": "1402",
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
