@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_ele11">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_ele12">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_ele122">
+    <element type="id">bTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_fefewq">
+    <element type="id">countryTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_ele21">
+    <element type="id">bTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_ele22">
+    <element type="id">bTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+</locators>
