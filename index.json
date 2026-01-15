@@ -90,7 +90,7 @@
                         "json_url": "https://dev-ajay-testgrid.tiiny.site/tg-api.json",
                         "json_keys": "testx1,testx2,testx3,testx4,testx5",
                         "test_case": "[]",
-                        "type": null,
+                        "type": "1",
                         "api_url": null,
                         "api_keys": null,
                         "database_object": null,
