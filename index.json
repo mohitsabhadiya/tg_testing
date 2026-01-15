@@ -1,7 +1,7 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": 338,
+    "version_id": "338",
     "user_id": "1",
     "abo_version": {
         "version_id": "338",
@@ -16,7 +16,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "546",
+        "git_restore_id": "0",
         "is_delete": "0"
     },
     "app_id": "134",
@@ -59,7 +59,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-01-08 16:31:58",
+            "view_updated_date_time": "2026-01-15 17:54:40",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "1",
@@ -83,7 +83,19 @@
                     "updated_at": "2026-01-08 16:31:58",
                     "created_at": "2026-01-08 16:29:52",
                     "test_case_tags": [],
-                    "iterative_test_case": [],
+                    "iterative_test_case": {
+                        "id": "62",
+                        "user_id": "1",
+                        "tc_id": "1798",
+                        "json_url": "https://dev-ajay-testgrid.tiiny.site/tg-api.json",
+                        "json_keys": "testx1,testx2,testx3,testx4,testx5",
+                        "test_case": "[]",
+                        "type": "1",
+                        "api_url": null,
+                        "api_keys": null,
+                        "database_object": null,
+                        "database_keys": null
+                    },
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/134/338/1408/testcases/mtmtm2.java"
                 }
             ],
